@@ -2,7 +2,7 @@
 - 👀 I’m interested in tech-stuff
 - 🌱 I’m currently learning react js 
 - 💞️ I’m looking to collaborate on for my project HONOW
-- 📫 How to reach me instagram:@ostenjap "PRE-RICH"
+- 📫 How to reach me instagram:@ostenjap "PRE-RICH"/E-Mail:"wiecen@gmail.com"
 
 <!---
 ostenjap/ostenjap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
