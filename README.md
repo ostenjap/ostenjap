@@ -2,7 +2,7 @@
 - 👀 I’m interested in tech-stuff (mostly mechanical)
 - 🌱 I’m currently learning robotics
 - 💞️ 
-- 📫 How to reach me E-Mail:"wiecen@gmail.com" / linkedlin: osten jap
+- 📫 How to reach me E-Mail:"wiecen@gmail.com" / linkedlin: [osten jap](https://www.linkedin.com/in/osten-jap)
 
 <!---
 ostenjap/ostenjap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
