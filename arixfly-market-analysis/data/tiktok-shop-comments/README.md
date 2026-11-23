@@ -24,7 +24,7 @@ Revenue figures are third-party estimates and differ between trackers.
    Close variants of the products were left out (e.g. medicube's NAD+ EGF balm).
    The chosen URLs are in `videos.json`.
 2. **Comments:** `clockworks~tiktok-comments-scraper`, up to 100 top-level comments per video,
-   in TikTok's default order (roughly the most-liked first). Replies are not included.
+   in TikTok's default order (not sorted by likes). Replies are not included.
 
 | # | Product | Comments |
 |---|---------|----------|
@@ -35,7 +35,7 @@ Revenue figures are third-party estimates and differ between trackers.
 | 05 | medicube Body Care Set | 356 |
 
 Output lines are `date | likes | replies | text`. Usernames are not stored. Sticker- or GIF-only
-comments appear as `[no text - sticker/GIF only]`. Two of the 01 videos and one of the 04 videos
+comments appear as `[no text - sticker/GIF only]`. One 01 video (@rphreviews) and one 04 video (@kajsa.ziebell)
 compare medicube against Dr.Melaxin, so some comments there are about the competitor.
 
 ### Re-running without Apify
