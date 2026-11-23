@@ -1,0 +1,408 @@
+PRODUCT: medicube PDRN Pink Collagen Volume Multi Balm
+CATEGORY: Beauty / Skincare
+TIKTOK SHOP PRODUCT ID (per EchoTik): 1729508370969629931
+PRICE: ~$14 US (NewBeauty); £24 on TikTok Shop UK (LatestDeals)
+
+WHY IT COUNTS AS SUCCESSFUL (confirmed by multiple sources)
+- FastMoss, Q2 2026 US: #1 product on TikTok Shop, ~$16.99M revenue.
+  https://www.fastmoss.com/blog/best-selling-tiktok-shop-products-us-q2-2026/
+- Kalodata via QuickSync, July 2026: single best-selling product on the platform that month.
+  https://quicksync.pro/blog/tiktok-shop-trending-products-2026/
+- LatestDeals (UK): 1.5M+ views in 7 days across 432 videos and 146 livestreams; ~14,000 units / ~£370K estimated.
+  https://www.latestdeals.co.uk/news/shoppers-warned-not-pay-24-viral-tiktok-k-beauty-stick
+- NewBeauty product review.
+  https://www.newbeauty.com/view/medicube-pdrn-pink-collagen-volume-multi-balm-review
+
+VIDEO URLS SCRAPED
+https://www.tiktok.com/@rphreviews/video/7633601640649510174
+https://www.tiktok.com/@kbeautymom75/video/7619036880058748191
+https://www.tiktok.com/@cicihaskill/video/7620777682317364511
+https://www.tiktok.com/@kellymarie1966/video/7671089063738232095
+
+RAW COMMENTS
+# collected 2026-11-23 via Apify clockworks~tiktok-comments-scraper: up to 100 top-level comments per video,
+# in TikTok's default order, replies not included, usernames not saved. 375 comments in this file.
+# format: date | likes | replies | text
+
+## https://www.tiktok.com/@rphreviews/video/7633601640649510174 (100 comments)
+2026-05-05 | 1183 | 70 | Ordinary volufiline is better
+2026-06-02 | 13 | 1 | IN MY OPINION, JUST USE HEMORRHOID MEDICINE
+2026-05-13 | 616 | 39 | I bought the medicube and I swear it’s taken years off my face in just weeks. Still ugly but not as old looking lol
+2026-05-23 | 34 | 6 | But volufiline isn’t the #1 ingredient in medicubes and Ordinarys it is and it has more. So that makes Ordinary’s better 😁
+2026-05-09 | 585 | 65 | Dr melsxin doesn't work. I have it
+2026-06-18 | 747 | 39 | Me seeing the comments saying the dr. Melaxin one doesn’t work, right after I just got mine 😭😭😭😭
+2026-05-04 | 15 | 4 | How does it compare to the Kahi stick?
+2026-05-12 | 514 | 17 | I’ve used both so far and both worked well. Yes Medicube shows the volume really fast and Dr Melaxin shows moisture also fast. Now I’ve decided to use Dr Melaxin prior to bed, and Medicube in my purse. Love them both 🤷🏻‍♀️
+2026-11-22 | 0 | 0 | wait so if my eyes bags are more puffy than dark which one should i get
+2026-05-10 | 192 | 13 | They don’t work, if they did it would not cost $21.00
+2026-07-23 | 126 | 3 | Medicube is working for me. I can’t believe it. It’s amazing. It really plumps up the thin skin under my eyes and smile lines. I use it at bedtime. I was leery because I have oily skin but this stuff is great. I am 69.
+2026-05-31 | 280 | 14 | Lord have mercy on my bank account
+2026-05-04 | 14 | 8 | Which one for puffy under eyes?
+2026-07-11 | 5 | 1 | Neither work.
+2026-05-03 | 186 | 11 | They’re cheaper on Amazon
+2026-05-05 | 13 | 8 | which one is better for dark under eyes?
+2026-06-30 | 40 | 1 | Yeah - I’ll purchase this and then next week it will be a new product that is better than the pink one. It’s a never ending cycle on this app lol
+2026-07-27 | 23 | 1 | I’m 61 worked in the beauty business.. hyaluronic acid was the best thing on the market staying, active, eating, healthy, taking supplements stay hydrated, drinking collagen and stop drinking alcohol or as much don’t sleep with your makeup don’t eat junk food, lots of sugar and products that are just unhealthy. It does work on your skin.
+2026-05-19 | 118 | 6 | I have Dr. Melaxin not a fan I don’t think hers works at all and I’m tired of buying product off of TikTok
+2026-07-25 | 5 | 0 | Almonds oil the best thing for that
+2026-06-01 | 126 | 10 | Dr. Melaxin definitely works! My under eyes were hollow, opaque looking and after a few days, literally saw the skin plump in those areas! ❤️
+2026-05-19 | 18 | 2 | Honestly I have both, they’re both ok, I like the dr melaxin slightly better on my skin. It keeps my skin hydrated longer which is what keeps my skin younger looking. Neither is a miracle.
+2026-06-01 | 14 | 5 | I need firming for my dang Turkey neck from losing weight.
+2026-08-17 | 5 | 0 | Melaxin did NOTHING and I used it religiously for over 2 full months - crap
+2026-06-21 | 60 | 4 | Dr. Melaxin’s been working for me 🤷🏽‍♀️. My under eye appears brighter and definitely firmer. I’ve been using it for like a month.
+2026-07-10 | 13 | 0 | I have both. Neither do much. Just moisture sticks
+2026-05-05 | 22 | 2 | So which one works in eye bags
+2026-05-05 | 92 | 5 | Melaxin has one use, Chapstick. Other than that, it’s useless.
+2026-07-04 | 49 | 3 | I have both and love both for different reasons. I feel the Medicube helps with the plumones, but Dr.Melaxin helps hydrate better and make my underage bags not look so hollow. For the DM one, I saw results in 1-2 weeks, but the hydration was right away.
+2026-05-04 | 61 | 2 | I don’t want to plumb my face. lol. It’s plump enough
+2026-05-28 | 23 | 4 | I just received my medicube snot a week ago……… a whole lot of nothing going on……….yet
+2026-06-30 | 20 | 2 | Loving my dr melaxin ☺️
+2026-05-04 | 3 | 3 | I use both
+2026-07-01 | 2 | 3 | How long does the plumbing last?
+2026-05-30 | 3 | 1 | But medicube is so expensive!!!!
+2026-08-31 | 3 | 2 | does anyone use both and just alternate them out every other day?
+2026-05-09 | 5 | 2 | I have both 😁
+2026-09-01 | 2 | 3 | Yall please do not use stuff with retinol in it if you are young. It is not good for young skin
+2026-09-11 | 1 | 2 | Millia that’s what they both do!
+2026-07-23 | 2 | 3 | So do any of these work! I want my face to look young again ! Help!
+2026-05-08 | 10 | 7 | How long till you see a difference. I have medicube. I don’t see any difference ;( It’s a few weeks
+2026-10-19 | 1 | 1 | I just received my dr melaxin wth I even got 2 💔
+2026-08-26 | 1 | 2 | Collagen doesn’t absorb through the skin
+2026-06-11 | 3 | 1 | how come medicube.com does not have this stick as one of their items?
+2026-07-22 | 1 | 1 | Dr. Melaxin is booty.
+2026-06-19 | 13 | 1 | I’ve been using Dr Melaxin religiously and I’m not impressed it’s been two months going to try medicube
+2026-07-21 | 10 | 1 | I combine both lol 😁
+2026-09-19 | 2 | 1 | Medicure WORKS!!! I founded Dr Melaxin at Burlington bought it let’s see how it goes.
+2026-08-15 | 1 | 2 | I can't use anything with PDRN in it due to a major fish allergy so I'm looking for alternatives
+2026-07-23 | 4 | 1 | they both give crust around my eyes at night when I wake up.. why?
+2026-05-08 | 34 | 4 | I tried Dr. Melaxin and have not seen any difference at all in my skin 😢
+2026-06-10 | 3 | 5 | What step is it in your skin care routine
+2026-06-19 | 4 | 2 | Thanks for the Volufiline™ love! We're proud of the science behind it and it's always exciting to see our ingredient getting the recognition it deserves. Thanks for the shout-out!
+2026-05-06 | 3 | 1 | What the best routine to use both?
+2026-05-08 | 5 | 1 | I use both
+2026-05-11 | 3 | 2 | which one has more product
+2026-10-23 | 3 | 0 | medicube better cause it's pink
+2026-08-06 | 2 | 1 | I like them both. I do use Dr Meliaxn but I prefer medicube first then dr meliaxn
+2026-05-30 | 6 | 1 | I just use kahi🤷🏻‍♀️
+2026-06-14 | 2 | 1 | Which one for puffy under eye
+2026-06-15 | 5 | 1 | Yeah!!!!!!! I was wondering why it was so amazing!
+2026-06-15 | 5 | 0 | Wonderful, I love Medicube products.
+2026-05-12 | 3 | 2 | I use both. 1 at night 1 in the morning
+2026-05-12 | 14 | 0 | I used Medicube night time and Dr. Melaxin before foundation. I loved the result
+2026-07-24 | 1 | 1 | does medicube cause milia?
+2026-05-11 | 43 | 3 | I feel the medicube stick has my face feeling plumper and smoother. Also using the cactox stick during the day and my face is so happy rn
+2026-05-24 | 7 | 0 | Got me thinking I need both now
+2026-06-03 | 5 | 0 | MELAXIN 🔥🔥🔥🔥❤️❤️❤️❤️❤️❤️❤️ALL DAY !!!
+2026-05-12 | 20 | 1 | Ive been using 100% volufiline and it doesnt do anything. Nothing. 🥺 It makes me feel like something with less, also wouldnt.
+2026-07-28 | 2 | 1 | Does the effect go away one you stop using it?
+2026-07-15 | 4 | 0 | Got mine on Amazon. And Medicube does work
+2026-06-09 | 5 | 0 | can i use both..one in morning one at night??
+2026-09-09 | 11 | 0 | i use the melaxin in the morning and the other at night 😊 working great
+2026-06-21 | 5 | 0 | Thanks for comparing these product
+2026-07-24 | 17 | 0 | They both work for me u have to keep using it
+2026-06-20 | 13 | 1 | I use the Medicube for under my eyes and my 11s, I use the Dr. Melaxin for my neck and I’ve been very happy with both but the results do not happen overnight. It will take 6 to 8 weeks of consistent. Use to see results.
+2026-06-09 | 20 | 0 | Dr Melaxin works. It just does. I use all the products. This may be good too but Dr Melaxin works well.
+2026-05-28 | 5 | 0 | Been using the melaxin stick and the medi cube stick and the cactox stick. Melaxin definitely helped with the deep set under eye circle. The only time I see the medicube stick working is when I use the eye patch with in on top but that’s still temporary. They are all not highly impressive of effective imo
+2026-07-05 | 5 | 0 | I haven’t tried medicube stick but u have tried Dr meloxin and i can say I finished the whole stick did not work at all for my mature skin I wished it did with all the hype about it I might try medicube
+2026-05-29 | 18 | 1 | use both...together! 😁
+2026-06-30 | 8 | 0 | Dr. Melaxin is cruelty free though!
+2026-05-09 | 19 | 3 | Dr Melaxin works great around my mouth… former smoker here!! Started Medicube maybe 2 weeks ago under my eyes.. too early for results.. imo
+2026-05-23 | 11 | 1 | I’m 60 in a few days and I bought the Dr M and it’s working for me ! I can’t believe I didn’t take a close up of my face before for comparison but it’s getting rid of terrible deep wrinkles under my cheek bone. So either way if the pink works great but Dr M also works😅
+2026-05-27 | 8 | 0 | Well it ain't gotta be expensive to be effective. Bigger companies like CeraVe have more affordable ceramides because they're able to get a bigger discounted price due to the huge volume of production.
+2026-07-24 | 10 | 0 | I use the medicibe in the morning and the Dr. milaxin at night I enjoy them both and they both have their uses!
+2026-05-03 | 14 | 2 | So use both??
+2026-05-11 | 26 | 0 | i have the medicube one.. works for me✨ neck line almost gone in the second day. saw comments saying it’s temporary, but that’s honestly the same with everything, you stop doing it.. it stops doing it. 🤷‍♀️
+2026-05-19 | 15 | 0 | I tried dr melaxin and it was really good so I decided to try medi cube as well I really like the medicine for my 49 year old skin it works best. Both excellent products
+2026-05-22 | 5 | 0 | Great comments to try and make a choice from real users over 25!
+2026-06-18 | 2 | 1 | If there’s retinol in it, how is it safe to use everyday?
+2026-05-28 | 3 | 1 | been using BOTH on opposite sides to see for myself. it's been 3 weeks and neither have produced any change at all so far. just sayin.
+2026-06-26 | 2 | 1 | Does the medicube have salmon dna? As someone with a shellfish allergy is this going to be a problem?
+2026-06-23 | 7 | 0 | Pink one works 👍🏽👍🏽
+2026-06-11 | 8 | 0 | I love the pink stick
+2026-06-23 | 2 | 0 | Medicube pdrn was awesome to use in their masks ☺️✨👌🏻
+2026-06-02 | 5 | 0 | I love the dr melaxin products, they work great for me. I’ll have to try the medicube too
+2026-05-25 | 7 | 0 | I have used stuff from both for quite awhile now and love them both! When used CORRECTLY there are major results in my face and neck. I will continue to buy BOTH
+2026-05-04 | 14 | 0 | I have the Dr. Melaxin one, I am not having any success with moving out little wrinkles
+2026-05-11 | 17 | 0 | Dr Melaxin has so little!! the Medicube is Amazing ❤️❤️I have both
+2026-06-08 | 6 | 0 | Medicube!!! 🥰🥰🥰
+
+## https://www.tiktok.com/@kbeautymom75/video/7619036880058748191 (100 comments)
+2026-03-26 | 346 | 25 | We are tired being lied to!!
+2026-03-26 | 12 | 13 | I bought it I have sunken eyes I’ll give a review how long does it take to work anyone know?
+2026-03-26 | 199 | 11 | My cart is 10,000😂😂😂
+2026-03-26 | 3 | 1 | I have like 3 different Korean PDRN sticks that you have made videos for. Which one is the best one?
+2026-04-30 | 7 | 10 | Medicube has good products but definitely not this one. It didn’t do anything to my lips.
+2026-03-24 | 36 | 6 | Im 55 and Medicube totally revived my skin. Never had any work done or fillers! Can't wait to try this!
+2026-03-21 | 5 | 4 | whats the difference in this and the pink medicube pdrn eye cream?
+2026-06-28 | 1 | 1 | Before or after sunscreen?
+2026-05-11 | 3 | 2 | please 🙏 send me the link
+2026-03-21 | 13 | 2 | I love how you answer all our questions. I think you are the best sales person on here. you really take time for everyone. I appreciate that🥰
+2026-05-23 | 2 | 5 | mine came saying retinol instead of volufiline
+2026-04-06 | 11 | 1 | Just use castor oil
+2026-03-22 | 30 | 13 | I stop using that because people thought im sweating because how shiny my face looked like😏
+2026-03-23 | 99 | 9 | Aight now how many products they gonna create😩🥴
+2026-06-28 | 0 | 2 | Before or after moisturizer?
+2026-03-23 | 66 | 13 | I’m happy with my Vaseline stick for $.99 🤣🤣🤣
+2026-03-30 | 1 | 1 | Who has been using it and it's been working for them?
+2026-07-03 | 1 | 2 | I bought but doesn't work & is very oily
+2026-03-20 | 2 | 3 | Is that new???
+2026-04-11 | 2 | 2 | it works
+2026-03-26 | 2 | 1 | It’s so oily after
+2026-03-24 | 5 | 2 | I have to try this!!!
+2026-03-22 | 14 | 3 | You look so good but I feel like I am going to lose all my money if I keep listening to you 😂😂😂🥰
+2026-03-30 | 0 | 1 | I cannot find it. Is there a link?
+2026-04-06 | 4 | 2 | How long until I see results ???
+2026-03-29 | 1 | 2 | Can I just eat the damn salmon?
+2026-04-14 | 1 | 1 | Where’s your before n after
+2026-03-27 | 4 | 3 | Does it help with expression lines on the forehead?
+2026-07-15 | 0 | 1 | Can I put on foundation after I roll this on?
+2026-03-26 | 14 | 0 | 50?!? Girl you look 30! 😍
+2026-06-18 | 8 | 0 | I’m enjoying the Medicube products I have.
+2026-03-20 | 10 | 11 | But I thought this product just came out? How long did your eye transformation take?
+2026-03-22 | 7 | 1 | 50!? U look soooo young! I’m buying this if u use it!
+2026-04-12 | 6 | 0 | Does this really work
+2026-04-12 | 6 | 0 | I haven’t tried this one yet but I recently started using other medicube products and I’m in love.
+2026-03-29 | 5 | 1 | Do you have before and after? I’m interested!
+2026-03-28 | 5 | 0 | You look beautiful 🥰
+2026-03-21 | 5 | 0 | Can't wait to get mine
+2026-10-24 | 1 | 0 | can you put on eyelid and above
+2026-06-25 | 3 | 0 | Received mine today!! I'll be back with my results
+2026-05-02 | 4 | 0 | I bought some of this. I hope I see a difference.
+2026-04-14 | 4 | 1 | How long did it take for you to use that before you reach that stage ?
+2026-04-08 | 4 | 0 | how much is this
+2026-04-03 | 4 | 0 | Just got this and the matching eye patches from you. So excited to get!
+2026-03-28 | 4 | 1 | Is this the last step before makeup? Just received mine.
+2026-03-28 | 4 | 0 | Maam my cart is at a million dollars 😩
+2026-03-27 | 4 | 1 | Do I use it over fountain or before?
+2026-03-24 | 4 | 0 | There is retinol in it so just night time?
+2026-05-15 | 4 | 0 | medicube stuff works great!
+2026-05-09 | 4 | 1 | Where can you find?
+2026-03-20 | 3 | 1 | Only under eyes or whole face ?
+2026-06-14 | 2 | 0 | Nice
+2026-03-20 | 4 | 0 | Help with dark circles
+2026-03-24 | 5 | 3 | Yes, they are the best. I use it and I’m almost 49.
+2026-05-02 | 1 | 1 | Just got mine. I thought it was as advertised to work quickly. I’ve not noticed anything yet.
+2026-04-26 | 2 | 1 | it tighten?
+2026-04-14 | 2 | 1 | If it’s going to get me wrinkles when it’s dry, what do I want it for? 🤔
+2026-03-25 | 3 | 1 | Can you use it over make up?
+2026-08-22 | 2 | 0 | Did not work
+2026-03-25 | 4 | 1 | Just ordered, will try…thank you!
+2026-03-21 | 3 | 16 | do you think this is better then Dr. Ms calcium stick?
+2026-03-26 | 1 | 3 | How long do you have to use till you see a difference
+2026-04-12 | 1 | 3 | I don't have the money to keep buying all these I've spent soooo much an more an more keep coming out 😢
+2026-04-27 | 1 | 1 | I bought it because I got crazy deal. Will see, my bags are insane 😭
+2026-04-05 | 1 | 2 | hi when did this come out
+2026-04-11 | 8 | 8 | I have been buying a lot of medicube. If you see my hands improve… lol! Because I do everything to them the same. But I can say that I have very sensitive skin. And it hasn’t caused issues. I use the pink line. I do think you need to exfoliate for better and quicker results. So I am about to use that one. Been about a month. I see improvement in my face= lip lines, but the neck, is it getting worse? Technically I would need to get ahead of the aging process. Supplements are important, too. The collagen moisturizer one in the jar is so moisturizing. I might have to get this stick though. Not wearing makeup allows you to treat your skin throughout the day. And as we age, moisturizing is a must. I am really surprised my skin is accepting this line. Cuz now I can use something!
+2026-03-24 | 2 | 3 | is it only for night time use?
+2026-05-12 | 0 | 3 | Are you supposed to feel any tingling or anything or you just leave it on and wait and see what happens?
+2026-04-01 | 3 | 1 | I use the medeca dayly. and firstly I apply the pdrn. when would I apply this one?
+2026-03-25 | 2 | 2 | I get the Korean one and been using it for 4 years KAHI
+2026-04-06 | 1 | 4 | I just ordered mine and I hope it works
+2026-03-28 | 5 | 1 | Thank you for actually putting it on your face. I’ve seen a few of these and it doesn’t even touch their skin lol
+2026-06-15 | 2 | 1 | Amazing!!!
+2026-04-24 | 3 | 2 | You speak too fast 😆
+2026-03-21 | 1 | 1 | can you use makeup over it?
+2026-04-24 | 2 | 1 | slow down take a breath
+2026-03-28 | 2 | 1 | Is there salmon extract in this? I can’t use it if it’s got some 😩😩
+2026-03-27 | 1 | 1 | How long before you seen results?
+2026-03-26 | 1 | 1 | Im so confused. What about the one that looks like a concealer? Are they the same?
+2026-07-13 | 0 | 1 | So, this is for? Wrinkles? Also work puffy eyes?
+2026-04-21 | 1 | 1 | I bought and it works . I’m pleasantly surprised
+2026-04-12 | 2 | 1 | I definitely need to get that
+2026-06-01 | 2 | 0 | Can you use this on your lips as well?
+2026-06-19 | 1 | 1 | I have this, but would like to get a recommendation about use. Do you use it at night and rub it in, or during the day?
+2026-06-27 | 0 | 1 | Is this product supposed to feel like chapstick on your face? Got 3days ago, tried last night. Felt so sticky and thick. Even rubbed into skin
+2026-08-20 | 0 | 1 | Is it sticky?
+2026-04-26 | 4 | 0 | Mine never got here !!!
+2026-03-29 | 1 | 4 | that's it .I have to try this! can I return the cactus stick if I used it?
+2026-04-25 | 3 | 0 | Just bought it
+2026-05-09 | 2 | 0 | she really said it and the algorithm thanked her
+2026-04-22 | 3 | 0 | i order that PDRN 5 and the one arrive in my house is not thesame i demand to get the right one pdrn 5
+2026-03-30 | 3 | 0 | is it cruelty free
+2026-03-23 | 3 | 0 | Just ordered
+2026-03-21 | 3 | 1 | i need this!!!
+2026-03-21 | 2 | 0 | Great product so pretty color too
+2026-05-04 | 2 | 0 | luv ur lashes! pls share
+2026-04-25 | 2 | 2 | Looks like a lot of Botox! But your skin is gorgeous! I have medicube…. I have the two face shining!!
+2026-04-23 | 2 | 0 | Amazing
+2026-04-21 | 2 | 0 | Looks greasy, not glowy.
+2026-04-21 | 2 | 0 | Im 45 medicube made my skin face look healthier and young. I don't even like to use makeup before I did
+
+## https://www.tiktok.com/@cicihaskill/video/7620777682317364511 (100 comments)
+2026-04-07 | 24 | 26 | Isn’t medicube being sued???
+2026-03-27 | 239 | 13 | Why is everyone promoting this stick mispronounce volufiline?? It’s vol-you- fill - een
+2026-07-03 | 15 | 4 | I have been using this for 2 weeks and I am definitely seeing a difference. So I'm happy with it. But I read not to use it under your eyes. I mean makes sense it will make them more puffy. But the patches have been working amazingly. So overall I am impressed.
+2026-06-23 | 53 | 8 | I started using this last week and I am not exaggerating I look 25
+2026-10-31 | 0 | 0 | love this stuff. order in!
+2026-03-30 | 17 | 1 | Why not just put it on your whole face
+2026-03-27 | 51 | 16 | Why does everyone use theveye oatches backwards....Narrow point goes in the corner area of the eye and the wider part goes towards the outside....Thank me later!!!!
+2026-07-23 | 10 | 0 | can someone be real with me? does this work
+2026-03-27 | 16 | 9 | recognized by Korea?? what does that even mean
+2026-08-09 | 5 | 0 | HAS NO RETINOL . LASTTTTTT INGREDIENT
+2026-03-30 | 33 | 10 | 5% hahaha…The Ordinary brand is better.
+2026-04-05 | 5 | 5 | I heard this does nothing. I would like to see a before and after. No one does that.
+2026-03-26 | 40 | 3 | I just bought the other stick y’all were raving about for the last 8 weeks!!! 😩
+2026-04-06 | 13 | 5 | It’s been available for more than two weeks. Why lie about it. The main complaint about this product is, It makes your face oily! I have a set and I love most of the products but I don’t like anything that makes you look and feel greasy!!!
+2026-03-29 | 6 | 1 | Can you wear under makeup?
+2026-04-08 | 6 | 0 | Got the bundle and I’m not impressed waste of money. Specially, that jelly cream not a moisturizer. I really tried to like this brand but it just doesn’t cut it for me. I do like the masks though.
+2026-07-04 | 4 | 0 | Waste of money has used 3 months has done nothing 😒 period..but make my skin greasy ..
+2026-04-09 | 11 | 0 | FYI it doesn’t work
+2026-03-26 | 13 | 3 | Dab it on though if any of yall get this. dragging your under eyes like that will just create more wrinkles over time and you’ll just end up back where you started.
+2026-04-03 | 6 | 1 | Does it work on your lips too?
+2026-04-08 | 5 | 0 | I bought it and just a greasy mess!
+2026-04-08 | 4 | 1 | Are the eye masks one use?
+2026-04-01 | 6 | 1 | I just bought the other stick y’all were raving about for the last 6 weeks!!! 😭
+2026-03-26 | 7 | 2 | What happened medicube. You’re usually so affordable. This price point doesn’t match the brand for this product.
+2026-03-30 | 5 | 0 | Interesting! Dr. Melaxin has had a very similar product for a while and I love it 👀
+2026-04-07 | 7 | 0 | Ever since I started using Korean products I have seen a change in my skin and do have ppl around me. I started using this brand and love it!!! Of course it’s greasy that’s why you use it at night but I also wear it in the morning and don’t put as much…and not as expensive 🤷🏻‍♀️
+2026-04-01 | 9 | 0 | Thank you so much for sharing! Medicube is my holy grail! 🥰
+2026-04-06 | 13 | 0 | I really like Medicube, so far very good products.
+2026-04-03 | 5 | 0 | Ok. And what’s the next fad product in 10 days. 5%? Just get The Ordinary. It’s 95%.
+2026-04-04 | 5 | 1 | She says “just rub it everywhere”😂
+2026-03-27 | 5 | 7 | Please stop using retinol anything under the eye more then once a week. you are literally thinning that skin more. Sincerely, a licensed skin therapist in NY, NJ & FL. 🩷
+2026-09-12 | 0 | 1 | Can you put it on under makeup or is it greasy?
+2026-09-17 | 3 | 3 | I just started using Medicube a little over a week ago and I already see results. The biggest thing I love is you cant see my pores after working for 8 hours when I wear makeup and sweat, my skin stays looking smooth the whole day, its amazing.
+2026-07-01 | 1 | 1 | Looks greasy
+2026-07-19 | 2 | 2 | I heard peptides only work if you consume them, not topically. I wonder if that’s true…
+2026-06-26 | 0 | 1 | Ordinary is 95% this is only 5% 😳
+2026-03-27 | 3 | 5 | Can I use it if I’m on tretinoin
+2026-04-06 | 1 | 2 | Can I just put it all over my face?
+2026-04-05 | 0 | 1 | Doesn’t work like stated.
+2026-06-22 | 3 | 5 | This can’t be safe.. if it’s over counter and not fda approved in the US. SMH. These creators and their buzz words to sell stuff..
+2026-09-04 | 3 | 0 | It works💯
+2026-05-17 | 2 | 2 | How do I add it to my cart it doesn’t even say how much it is
+2026-04-12 | 4 | 2 | I got some questions. Do you use it for morning care or night care or doesn’t matter do you use it before you leave the house like to go out?
+2026-03-30 | 2 | 1 | Same script every time
+2026-03-29 | 3 | 1 | does it make your eyes puffy though?
+2026-03-29 | 3 | 1 | Wait so now the eye patches aren’t enough? We godda get stuff to go under the eye patches??
+2026-08-30 | 3 | 0 | Sorry this doesn’t work
+2026-04-03 | 2 | 4 | You’re using retinol during the day ?
+2026-06-09 | 1 | 1 | what's the difference between the patches and the jelly cream? Do they both have the same ingredients?
+2026-04-11 | 1 | 1 | rather just use organic olive oil or coconut oil.
+2026-03-27 | 4 | 2 | This isn’t on medicube’s website… don’t think it’s actually there product.
+2026-03-28 | 1 | 1 | Is this good for eye bags and puffiness?
+2026-05-25 | 1 | 1 | But if it has rentinol in it then we should only wear or use this at bedtime only !!
+2026-04-24 | 3 | 1 | I can’t even find it on medicubes site not even as a sold out item
+2026-09-16 | 1 | 0 | This is all over my fyp!
+2026-04-29 | 4 | 1 | There’s no link
+2026-06-18 | 1 | 1 | What’s going to happen when we stop using this. Is our faces going to be drippy?
+2026-04-12 | 4 | 0 | I think I need this
+2026-04-06 | 3 | 0 | 😅🥺l
+2026-04-05 | 3 | 0 | Is there a full ingredient list?
+2026-04-22 | 3 | 0 | I hated this product all of them the capsules are still sticky
+2026-06-01 | 1 | 0 | lol
+2026-03-30 | 4 | 0 | NAH Really
+2026-06-09 | 1 | 0 | Yes
+2026-05-31 | 2 | 0 | Do you do this as the last step or before moisturizing?
+2026-09-14 | 1 | 0 | Love it it’s amazing
+2026-04-03 | 3 | 0 | Is this oily
+2026-04-02 | 3 | 1 | It does not work
+2026-08-01 | 2 | 0 | I just got mine how many times do you use it?
+2026-05-23 | 1 | 0 | is this a night time thing
+2026-05-27 | 2 | 0 | Girl my cart is so full now I need it thoooo
+2026-05-18 | 1 | 0 | So good!
+2026-08-15 | 2 | 0 | it's a waste of money
+2026-05-24 | 1 | 0 | Wow no way
+2026-11-09 | 0 | 0 | how is it on super sensitive skin?
+2026-07-27 | 1 | 0 | Didn’t help me :/
+2026-03-26 | 1 | 1 | Your skin looks so amazing
+2026-04-10 | 3 | 0 | Is it scented?
+2026-08-09 | 2 | 0 | There’s no VOLUFINE in the ingredients just SYNTHETIC WAX
+2026-04-02 | 2 | 0 | Ouuuuuu 🥰
+2026-05-25 | 3 | 0 | This Medicube stick works so well
+2026-05-19 | 2 | 0 | My question is when do I apply? Before makeup or at night? When?
+2026-03-31 | 4 | 1 | where can someone get the plastic under eye patch that she put on?
+2026-08-28 | 1 | 0 | Smells like puke no one told me. 😳😳😳😳😳
+2026-08-15 | 1 | 0 | Ok so when do you use this? Before sunscreen?
+2026-04-12 | 3 | 0 | You skin is beautiful
+2026-08-23 | 1 | 0 | You do well as showing that I love that 5% one and then I put a eyepatch on top of that
+2026-07-28 | 0 | 0 | I don’t get the hype on the stick. It just makes me look greasy. It doesn’t puff out or fill in lines. Basically a milder Vaseline in a stick. I do enjoy the Medicube peel milk mask though.
+2026-04-11 | 3 | 0 | I want to know what this looks like when it dries on your skin 😂
+2026-04-07 | 4 | 0 | I ordered mine n can’t wait to see how those fine line around my lips diminish 😬🤞🏼
+2026-07-05 | 1 | 0 | Does not do one thing except for waste your money
+2026-04-23 | 3 | 0 | FYI: topical products can’t ‘fill’ like lip filler—this just hydrates for temporary plump. Ingredients are also pretty occlusive, so it may clog pores or cause milia for acne-prone skin
+2026-06-20 | 1 | 0 | Thanks! After the coupon supplied, it was two sticks for $16.
+2026-04-15 | 3 | 0 | So how often and when do you use the eye patch. Can you put makeup on top of the stick during the day?
+2026-03-28 | 3 | 0 | I love medicube! Running to buy this
+2026-07-26 | 1 | 0 | Thank you for not calling it b00b filler. I was using it on my chest until your informative video.
+2026-04-26 | 2 | 0 | Consumers should look up the research on Volufiline. If they do, they will find the research is limited and primarily consists of internal studies conducted by its manufacturer, Sederma. This is a good example of let the buyer beware.
+2026-05-25 | 1 | 0 | it's a gimmick
+2026-04-01 | 3 | 2 | I’ve been using Dr. Melaxin stick but decided to try this one as I love trying new products. Is it as greasy?
+2026-05-22 | 1 | 0 | I ordered AT THE BEGINNING OF THE MONTH and have YET to receive it. Ridiculous
+
+## https://www.tiktok.com/@kellymarie1966/video/7671089063738232095 (75 comments)
+2026-11-22 | 1 | 1 | I’m fighting and its working
+2026-08-25 | 24 | 4 | Keep that stick in your freezer and put that on your under eyes in the morning. So good.
+2026-09-19 | 14 | 3 | Finally someone normal trying this out with real results
+2026-10-02 | 0 | 3 | When do you apply it? After skincare?
+2026-08-13 | 2 | 11 | Just ordered…here’s hoping 🥰
+2026-11-04 | 1 | 1 | You look amazing!
+2026-08-13 | 10 | 4 | Doesn’t work
+2026-09-06 | 7 | 2 | most definitely works! I was skeptical too.
+2026-09-22 | 1 | 4 | I'm using this now I can't really tell yet it's been 2 weeks
+2026-11-05 | 0 | 1 | ingredients?
+2026-10-07 | 1 | 2 | Love this product
+2026-08-13 | 7 | 8 | Wow this is amazing do you do anything else?
+2026-08-13 | 3 | 11 | How long does it take to work? I'm using twice daily and haven't noticed any changes yet
+2026-11-05 | 1 | 1 | beautiful
+2026-11-01 | 0 | 1 | I did 49… Doing 60 now and loving every minute.
+2026-09-20 | 4 | 2 | This does work! I have nothing to gain from saying this I’ve been using Meta cube now for six months and I can tell a big difference in my skin. It is gradual, not overnight.
+2026-09-04 | 0 | 2 | This is for under eye bags?? Thought for hollowness?
+2026-10-02 | 1 | 1 | I use this it actually works
+2026-09-02 | 0 | 2 | I ordered it 😂 this better change my life 🤣
+2026-08-13 | 6 | 3 | dang! week 5 was definitely turning point 🌸
+2026-09-16 | 0 | 1 | It’s more of a moisturizer than anything tbh, I have it too
+2026-08-13 | 6 | 1 | Fine I’ll buy it 🥹
+2026-08-29 | 0 | 2 | Friend! I miss you! How have you been?
+2026-08-25 | 0 | 2 | My lips really need this! How long did it take to start seeing results?
+2026-08-21 | 1 | 2 | I love that stick!!! you look great!!
+2026-09-03 | 5 | 1 | Thank you for the time line! I am on week 2! And yes between this and ROC…. I see a difference with the fine crowd feet! Thank you!
+2026-08-22 | 2 | 1 | you look so good at the end, like a movie star ❤️like the woman from Phenomenon
+2026-08-25 | 0 | 1 | Is there a fragrance??
+2026-08-21 | 1 | 1 | I don’t see the difference
+2026-11-05 | 0 | 1 | does it really tingle and why ?
+2026-08-17 | 1 | 1 | I see a difference 💓
+2026-08-13 | 1 | 1 | I'm definitely getting some
+2026-10-06 | 0 | 1 | Okay, I’m trusting you, Kelly!
+2026-10-18 | 1 | 0 | Can’t wait for mine
+2026-08-20 | 5 | 1 | You’re gorgeous.❤️❤️
+2026-08-22 | 0 | 1 | Excellent Marketing!!! You Go Queen! Saved your page for when I need a stick 🥰
+2026-08-13 | 5 | 1 | I'm 44 and I don't want to see anyone advertising stuff like this but women my age or older. So, I'm gonna buy it now! Thank you❤️
+2026-09-27 | 0 | 1 | Looking good girl 💜
+2026-11-04 | 1 | 0 | No way
+2026-09-18 | 0 | 1 | I’m 39 and have been for ten years and that’s that.
+2026-10-16 | 1 | 0 | Does it work on tightening double chin?
+2026-10-06 | 0 | 1 | I like that you did it in incriminates! It’s not an instant fix, it’s using it everyday!. 🫶🏽💕 I love your results! ✨
+2026-09-02 | 40 | 13 | I wish I could trust this 😭 and know for sure it’s not just filtered bs. I’ve been disappointed waaaay too many times my TikTok products
+2026-09-02 | 0 | 2 | girl ima be mad at you if it doesn't work but ima get it 🤣
+2026-08-24 | 1 | 2 | I'm determined to find a holistic at home diy alternative from nature.
+2026-08-14 | 3 | 2 | anybody ever tell you that you look like Elizabeth Perkins?
+2026-08-13 | 1 | 1 | Did you put it on daily?
+2026-08-13 | 3 | 1 | I'm loving Medicube. Great stuff, I've never felt so confident with my bare face.
+2026-09-06 | 0 | 1 | Same as the purple stick. Just less greasy. I bought both. Waste of money.
+2026-08-27 | 3 | 1 | nope! It is a great moisturizer but not a miracle product
+2026-09-10 | 0 | 1 | This is conflicting!! The Asian chick at the Kbeaty store specifically said do NOT put under that eye area!!!!!!! 🤣 wtf now I'm mad lol
+2026-09-09 | 0 | 1 | You look so much like my grandma it makes me so happy
+2026-08-21 | 1 | 1 | Gorgeous before and after!! 🥰
+2026-08-23 | 0 | 1 | So this works for eyebags too?
+2026-08-22 | 0 | 1 | Great
+2026-09-03 | 0 | 1 | do you do whole face?
+2026-08-25 | 0 | 1 | you look amazing
+2026-08-19 | 2 | 1 | Daaaaaaang ❤️❤️
+2026-08-21 | 2 | 1 | Looking good
+2026-08-20 | 0 | 1 | Amazing difference!
+2026-08-26 | 1 | 1 | You are beautiful but I also understand 😉 those lines are creeping up on me! I have this in my cart lol
+2026-10-25 | 1 | 0 | apply the pdrn caffiene eyepatches on top. [Perfect score]
+2026-08-25 | 0 | 1 | You are beautiful! Welcome home ❤️
+2026-09-06 | 0 | 0 | Following
+2026-08-11 | 0 | 0 | Ordered
+2026-08-25 | 0 | 1 | You look like Sarah Paulson 😍
+2026-09-25 | 0 | 1 | 🤔honestly have you always taken care of your skin , cause I gotta say looks pretty good to me for being 60 if that is your REAL age 🤔....😉
+2026-08-21 | 0 | 2 | My friend loves it! Mine will be delivered today. The Ordinary has 99% Volufaline. It gets great reviews!
+2026-09-01 | 2 | 0 | 🥰🥰🥰
+2026-09-19 | 1 | 0 | 😁😁😁
+2026-09-14 | 2 | 0 | @my.bagnbeauty.obsession
+2026-08-13 | 1 | 2 | 💖💖💖
+2026-09-17 | 1 | 2 | ive been using it and it just moisturizes doesnt help with any lines or wrinkles
+2026-08-18 | 0 | 0 | 😁😁😁
+2026-08-22 | 2 | 1 | so your nails stayed the same, no growth and perfect polish for 6 weeks?! 🙄
