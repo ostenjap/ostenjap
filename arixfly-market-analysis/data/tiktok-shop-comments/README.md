@@ -15,13 +15,31 @@ evidence, followed by a `RAW COMMENTS` section.
 
 Revenue figures are third-party estimates and differ between trackers.
 
-## Status: comments not yet collected
+## Comments: collected 2026-11-23
 
-TikTok was unreachable from the environment that built this folder. To fill in the comments:
+1,840 comments from 20 videos (4 per product), pulled through Apify:
 
-1. Paste a few high-view TikTok video URLs for each product into `videos.json`.
-   Search the product name on TikTok, or use the "Related videos" list on its TikTok Shop page.
-2. `pip install playwright && playwright install chromium`
-3. `python scrape_comments.py --max-per-video 300`. Add `--headful` if TikTok shows a captcha.
+1. **Video discovery:** `xmolodtsov~tiktok-search-scraper` with 2 search terms per product (US).
+   From the results, the most-commented videos whose caption or hashtags name the product were kept.
+   Close variants of the products were left out (e.g. medicube's NAD+ EGF balm).
+   The chosen URLs are in `videos.json`.
+2. **Comments:** `clockworks~tiktok-comments-scraper`, up to 100 top-level comments per video,
+   in TikTok's default order (roughly the most-liked first). Replies are not included.
 
-Output lines are `date | likes | replies | text`. Usernames are not stored.
+| # | Product | Comments |
+|---|---------|----------|
+| 01 | medicube PDRN Multi Balm | 375 |
+| 02 | Toplux Magnesium Complex 8 | 371 |
+| 03 | DRDENT Purple Strips | 400 |
+| 04 | Dr.Melaxin Gifted Collagen Boost Set | 338 |
+| 05 | medicube Body Care Set | 356 |
+
+Output lines are `date | likes | replies | text`. Usernames are not stored. Sticker- or GIF-only
+comments appear as `[no text - sticker/GIF only]`. Two of the 01 videos and one of the 04 videos
+compare medicube against Dr.Melaxin, so some comments there are about the competitor.
+
+### Re-running without Apify
+
+`scrape_comments.py` reads the same `videos.json` and writes the same format using a local browser:
+`pip install playwright && playwright install chromium`, then `python scrape_comments.py --max-per-video 300`
+(add `--headful` if TikTok shows a captcha). It has not been run against TikTok.

@@ -13,7 +13,420 @@ WHY IT COUNTS AS SUCCESSFUL (confirmed by multiple sources)
   https://echotik.live/products/1731879234948338174
 
 VIDEO URLS SCRAPED
-(none yet — add URLs to videos.json and run scrape_comments.py)
+https://www.tiktok.com/@godsarchangel7/video/7583507435780902158
+https://www.tiktok.com/@jendles48/video/7587081419575381251
+https://www.tiktok.com/@bestmajordeals/video/7537452277234191638
+https://www.tiktok.com/@louaira/video/7577016616651689238
 
 RAW COMMENTS
-(not yet collected — TikTok was unreachable from the environment that built this file)
+# collected 2026-11-23 via Apify clockworks~tiktok-comments-scraper: up to 100 top-level comments per video,
+# in TikTok's default order, replies not included, usernames not saved. 400 comments in this file.
+# format: date | likes | replies | text
+
+## https://www.tiktok.com/@godsarchangel7/video/7583507435780902158 (100 comments)
+2025-12-30 | 646 | 7 | How sensitive are your teeth after?
+2025-12-23 | 35216 | 20 | Finally somebody brushed it off instead of wiping it😭😭😭
+2026-01-02 | 33417 | 41 | GUYSSSS ITS COMPLETELY NORMAL FOR YOU TEETH TO BE SLIGHTLY YELLOW, THEY'RE BONE 😭
+2026-02-11 | 1548 | 18 | Color theory guys! Purple cancels out yellow like a purple shampoo tones out brass/yellow tones in bleached hair.
+2025-12-30 | 4305 | 18 | that doesn't mean your teeth are clean that just means they look clean
+2026-02-05 | 2187 | 34 | It works
+2025-12-23 | 719 | 8 | how long does the white last??
+2025-12-23 | 896 | 37 | can someone who doesn't earn commission confirm this please???
+2026-02-21 | 23 | 6 | i literally just finished using mine, i bought it for kauai but it arrived late so i tried it today. it does work!! however, if you have had fillings or anything like that there will be uneven coloring along your teeth
+2026-02-11 | 15 | 14 | My teeth are stained yellow from a medication I took as a baby that has a potential side effect of permanent adulting of yellow teeth, does anyone think that this would help? 😭
+2026-02-08 | 727 | 2 | [no text - sticker/GIF only]
+2026-01-01 | 38 | 9 | Do they work on chipped tooth that was fixed?
+2025-12-23 | 40 | 5 | would they work on veneers??
+2026-01-29 | 36 | 3 | How long do they last??
+2026-01-07 | 26 | 3 | It’s actually works I’ve used them so many times they are so gooood
+2026-03-02 | 53 | 5 | [no text - sticker/GIF only]
+2026-02-04 | 6 | 1 | i drink coffeee nonstop so this doesnt work for me , they dont last 🫢
+2026-03-24 | 0 | 0 | As a regular Joe shmo, I purchased them and they don’t make a difference, my teeth almost looked darker after using them, like the purple started to stain them 😬
+2025-12-16 | 20 | 5 | Donde la compro ?
+2025-12-23 | 90 | 0 | how are these with sensitive teeth? like super sensitive..? 😅
+2026-01-13 | 12 | 4 | Can I still use even tho I have braces
+2026-02-09 | 5 | 2 | Does it work if you have braces
+2026-01-13 | 116 | 1 | [no text - sticker/GIF only]
+2026-01-01 | 34 | 1 | [no text - sticker/GIF only]
+2026-02-05 | 7 | 0 | Are these safe to use while pregnant?
+2025-12-30 | 5 | 1 | Does this still work if you have braces on?
+2026-02-28 | 8 | 0 | Finally someone who brushed it off their teeth instead of rubbing it off 🤦🏼‍♀️
+2026-02-27 | 10 | 0 | FINALLY SOMEONE WHO BRUSHES OFF THE PURPLE STUFF
+2025-12-21 | 50 | 0 | i keep seeing these is it my sign to try
+2026-01-25 | 5 | 0 | Guess I need some 😅
+2026-02-24 | 325 | 9 | they’re a short term solution to the problem, not permanent. so most likely if you wanna have white teeth forever you might as well use them everyday
+2026-02-17 | 46 | 4 | How long does it last though?
+2026-01-31 | 697 | 5 | I just got mine! MY GOD! THEY WORK! 😳 my teeth weren't even as bad as hers but I could tell the difference. they definitely work.
+2026-02-18 | 4073 | 50 | me eyeballing my purple shampoo...
+2026-02-02 | 5 | 10 | im wearing them rnnn
+2025-12-22 | 165 | 11 | this made me buy it 😯
+2026-01-01 | 197 | 5 | [no text - sticker/GIF only]
+2026-03-04 | 5 | 0 | They do work no cap
+2025-12-26 | 20 | 5 | does it work with not straight teeth? My teeth lowk aren’t straight but I need that
+2026-04-15 | 5 | 0 | So how long does it last? Do any of the whitening strips actually whiten permanently or are they all temporary?
+2025-12-16 | 113 | 1 | Wao your teeth look amazing 😍
+2026-02-10 | 2 | 5 | ORDEREDDDDD❤️
+2026-02-23 | 1 | 2 | Hello beautiful I'm bryon Miller From Morgantown West Virginia nice to meet you
+2026-03-24 | 0 | 6 | I just got them lol
+2026-04-13 | 3 | 2 | I just ordered mine and I can’t wait to try them
+2025-12-31 | 278 | 1 | What if I'm missing a lot of enamel already?
+2025-12-27 | 12 | 4 | I got braces do they on them
+2026-04-16 | 0 | 2 | Isn’t this the same as using purple shampoo 😭
+2026-04-15 | 0 | 0 | uhh can 11-year-old use it?
+2026-02-14 | 1 | 0 | Will they work on teeth implants also???
+2026-02-04 | 2 | 2 | Is it good if i have a braces
+2026-04-16 | 1 | 1 | OMG!!! someone actually did the bottom row!!
+2026-03-03 | 2 | 1 | 67
+2026-04-09 | 1 | 0 | Where can I bay it?
+2026-04-16 | 2 | 0 | Does it work on crowns also
+2026-04-16 | 0 | 0 | I wanna try this (I smoke and drink tea and coffee) but I’ve heard someone say it burned has anyone else experienced that?
+2026-06-24 | 0 | 0 | How to order
+2026-03-26 | 0 | 0 | Is it okay for sensitive teeth ?
+2026-03-04 | 7 | 0 | didn't work for we. and they don't stretch. kept sliding off and did not have a mint taste
+2026-01-21 | 12 | 0 | thank you for brushing and doing the full mouth! lol i was looking for people who did the bottom teeth instead of just the top
+2026-02-09 | 9 | 0 | I used a different brand (prob the same ingred) yesterday for the 1st time. Omg it worked. My friend noticed as well
+2026-02-27 | 4 | 1 | можно арт пжпжжп
+2026-02-01 | 2 | 0 | Ou acheter
+2026-10-05 | 0 | 0 | Where can you buy dem i dont find anywhere to buy dem?
+2026-01-29 | 2 | 0 | Is this for real for real?
+2026-02-14 | 4 | 1 | Does it come with e paper to see the progress?
+2026-03-03 | 1 | 1 | Can I use with braces on ?
+2026-02-22 | 4 | 0 | She lowk fine tho
+2026-03-24 | 1 | 0 | 1
+2026-01-28 | 9 | 0 | They work. I only give honest reviews 🫶
+2026-01-29 | 8 | 0 | [no text - sticker/GIF only]
+2026-04-02 | 3 | 1 | I need these for my toenails
+2026-03-08 | 3 | 1 | enfin un vrai truc pour les dents blanche
+2026-02-19 | 4 | 0 | They got me. I bought it
+2026-04-02 | 3 | 0 | How long does the white effect last
+2026-03-10 | 2 | 1 | [no text - sticker/GIF only]
+2026-04-10 | 2 | 0 | Very nice
+2026-04-16 | 0 | 1 | Ts weakened my teeth and my front tooth broke 😒
+2026-02-08 | 4 | 0 | love the before and after
+2026-02-14 | 4 | 0 | I've been waiting for someone to brush and rinse. I Absolutely cannot just put goo one my teeth, wipe it off, and go about my day 😅
+2026-02-04 | 4 | 0 | Ok we need to try this ❤️
+2026-01-27 | 4 | 0 | Where is the before photos
+2026-02-22 | 2 | 0 | How long does it last ?
+2026-03-02 | 4 | 0 | But how long does it last?😳
+2026-02-20 | 2 | 0 | Are they reusable Archangel? At least 2X ?
+2026-02-23 | 2 | 0 | putting lipstick on helps with the teeth whitening too im sure
+2026-01-29 | 3 | 0 | 😳Really?
+2026-02-28 | 2 | 0 | Yesh I gotta try!!!
+2026-01-26 | 3 | 0 | What about fillings
+2026-01-28 | 3 | 0 | Amazing!
+2026-01-28 | 3 | 0 | Your teeth look SO GOOD
+2026-02-17 | 3 | 0 | [no text - sticker/GIF only]
+2026-01-12 | 3 | 0 | just bought.. hope it works well
+2026-03-03 | 4 | 0 | Yep color theory strikes again
+2025-12-30 | 3 | 0 | Omg take all my money 💖
+2026-01-30 | 2 | 0 | what is it called and where can i buy it
+2026-04-14 | 0 | 0 | I need this
+2026-01-05 | 2 | 0 | Im so excited to try
+2026-01-29 | 3 | 0 | [no text - sticker/GIF only]
+2026-02-28 | 2 | 0 | Dear lord I need these!!!!!
+
+## https://www.tiktok.com/@jendles48/video/7587081419575381251 (100 comments)
+2025-12-26 | 4891 | 32 | The cotton wool on the teeth 😭😭😭👹
+2025-12-26 | 1552 | 2 | I’m sorry but cotton wool on the teeth!!😳
+2025-12-26 | 110 | 8 | How long does it last before having to use again
+2026-08-17 | 49 | 0 | the cotton wool on teeth made me physically urked
+2025-12-28 | 80 | 6 | it doesn’t stay white like that once you brush your teeth, don’t get me wrong, they do work, sadly it’s just not as bright white as it is when you first take the purple strip off
+2026-05-11 | 30 | 1 | Did you just wipe your teeth with cotton wool !?? 😳😳
+2026-09-30 | 18 | 0 | The cotton wool on your teeth 😳😳 the sound 😂 looks good though
+2025-12-24 | 22 | 9 | Just purchased I have sensitive teeth but the reviews say they don’t irritate! We will see
+2025-12-31 | 26 | 2 | because purple cancels out yellow? like toner on yellow hair?
+2025-12-26 | 546 | 0 | THE SQUEAKING ON THE TEETH UGHHHH😩😩
+2025-12-23 | 38 | 4 | Omg that’s insane for just half an hour application 😍
+2026-02-02 | 3 | 1 | did anyone else have to close there eyes and srew there faces up when she rubbed cotton wool on her teeth 😬 it went through me 😂
+2026-01-02 | 9 | 1 | cotton wool on teeth arch my brain.
+2025-12-27 | 90 | 1 | Cotton wool on the teeth 🦷 fixing me shivers
+2026-01-04 | 34 | 0 | I was there until the cotton wool sound on teeth 😳😳😳😳
+2026-05-01 | 9 | 0 | The fact you just put cotton wool in your mouth and the noise made my toes curl 🫣🤣
+2025-12-27 | 10 | 0 | noooo not cotton wool on ya teeth 😳
+2025-12-28 | 9 | 0 | Omg cotton wool on your teeth 😬
+2025-12-30 | 5 | 0 | Cotton on the Teeth ILL 😷
+2025-12-27 | 12 | 0 | hell no ! not cotton wool on teeth 🤦😩😵‍💫 I'm Sat here covered in goosebumps now haha
+2025-12-26 | 8 | 0 | Oh my lord the goosebumps
+2026-05-16 | 2 | 1 | WHERE WAS THE TRIGGER WARNING!!!‼️
+2026-09-08 | 2 | 1 | I have six teeth that have composite bonding on them ...will the strips work on top of that?
+2026-02-01 | 1 | 13 | I just ordered it. Let's see if this actually works. 😁
+2026-03-27 | 3 | 1 | I can't cope with cotton wool on teeth , it's given me weak arms and shaky inside , noooo !!! 🤦🏻‍♀️🤣
+2026-01-27 | 4 | 2 | Nooo you just violated me 😂😂😂😂
+2026-01-04 | 4 | 0 | Cotton wool… teeth…. NOOOO 😭😭😭😭
+2026-07-28 | 2 | 0 | Why is no one talking about the cotton wool 😂🤣🫣🤦🏻‍♀️
+2026-08-25 | 0 | 0 | yeah, love them. but ill be buggered if I can get the bottom ones to stick ! 😂😂
+2025-12-28 | 2 | 2 | The cotton wool 😳😳😳😳😳😳😳😳
+2026-01-17 | 2 | 1 | Wow your teeth a perfect 😳
+2025-12-29 | 0 | 1 | How do I order
+2026-02-25 | 0 | 3 | Do they work on real teeth
+2026-01-02 | 1 | 2 | How long do they last ?
+2026-01-08 | 1 | 1 | I need a boy friend
+2025-12-26 | 3 | 2 | How many in a pack please
+2025-12-30 | 2 | 1 | Cotton wool made me instantly shiver
+2026-01-02 | 0 | 2 | dose it taste of anything like mint or something??
+2026-01-11 | 0 | 1 | can you make a video after you brush the teeth, it's still white?
+2026-02-03 | 1 | 1 | Damn you made my hair stand up all over my body the Cotten wool😭💔
+2026-08-30 | 1 | 0 | Awesome they are!
+2026-01-17 | 2 | 1 | Will you be doing nails down a blackboard next?
+2026-11-04 | 0 | 0 | agh the cotton wool on the teeth needed a trigger warning ⚠️😳
+2026-11-07 | 0 | 0 | The sound of the wool on your teeth is one of the worst sounds 🫠
+2026-01-08 | 1 | 1 | did yours say 1hr30 mins to leave them on for ?? mine do so i was just wondering if everyones said the same,or was 30 mins ur preference ??😁
+2026-01-20 | 2 | 0 | Aaaagh nooooo...cotton wool to wipe ya teeth..nooooooo
+2026-01-05 | 2 | 0 | Mate as soon as the cotton wool comes out 😳😳😳😳
+2025-12-28 | 4 | 0 | Omg sorry couldn’t watch that, cotton wool on teeth 😫
+2026-03-06 | 1 | 0 | Omg got goosies😫😫😫😫😫That noise
+2025-12-31 | 2 | 0 | Omg cotton wool on your teeth! How did you do that! 😳😳😳😳
+2026-03-05 | 1 | 0 | Ergh that noise of the cotton wool just made me shiver
+2026-01-18 | 2 | 0 | no waste of time makes them white for about half hour, waste if money also teeth are not ment to be bright white your tearing off enamel making teeth week
+2026-02-02 | 1 | 0 | lol ya teeth are gonna be so sensitive
+2026-04-25 | 1 | 0 | I just wish it wasn’t a “one day” things
+2026-01-01 | 1 | 0 | omg nooo. not cotton wool 😅
+2026-01-03 | 1 | 0 | why would u use cotton wool 😫
+2025-12-29 | 2 | 0 | But….but……the blue gums? The cotton wool?
+2026-02-26 | 1 | 0 | Omg the cotton on teeth 😱
+2026-01-25 | 1 | 0 | Why aren’t people brushing their teeth after it comes off?????
+2025-12-29 | 2 | 0 | sensory overload when your rubbing the teeth is off the charts 😂
+2026-01-05 | 1 | 0 | oh my days... cotton wool on the teeth 😱😱😱😱 that noise hurts my bones 🤣🤣🤣
+2025-12-30 | 1 | 0 | They have arrived can’t wait to review
+2025-12-28 | 1 | 0 | dont believe it 😁😂
+2026-09-18 | 0 | 0 | Sonion
+2026-10-04 | 0 | 0 | Oh yes, definitely.😱
+2026-08-07 | 0 | 0 | You meant to stretch it 🤣🤣🤣🤣
+2026-01-12 | 1 | 0 | [no text - sticker/GIF only]
+2026-08-06 | 0 | 0 | do these hurt like the white 1s ? i put them on and madr my teeth really sensitive ?
+2026-10-28 | 0 | 0 | does it harm Ur teeth? just cos mine are see through lol
+2026-03-03 | 0 | 0 | No
+2026-06-16 | 0 | 0 | It just doesn’t stay on !! Due to saliva from mouth and so difficult to stick it on! And you have to be careful not to swallow which again is very difficult to do.
+2026-02-18 | 2 | 0 | Very nice👌
+2026-06-29 | 0 | 0 | My strips are white not purple 🤷‍♀️
+2025-12-28 | 2 | 0 | That’s so good!
+2026-02-01 | 0 | 0 | No
+2026-03-06 | 0 | 0 | cotton wool tho ahhhh nahhhh
+2026-05-20 | 0 | 0 | Noooo the cotton wool makes my soul crease deceasseddd
+2026-06-28 | 0 | 0 | can someone plz tell me how I get these strips on here as I'm not sure what to do thanks
+2026-10-15 | 0 | 0 | And when you wash with water again, it’s yellow😂
+2026-03-27 | 0 | 0 | I can never get the purple off the teeth 😳
+2026-04-16 | 0 | 0 | I bought the foam version it’s faster
+2026-04-16 | 0 | 0 | I forgot to stretch mine 😭
+2026-02-13 | 0 | 0 | Oh no please don’t use cotton wool on your teeth! Put mine on edge 😬
+2026-03-21 | 0 | 0 | It doesn’t work 🙄🤷‍♀️
+2025-12-26 | 1 | 0 | I have them there good
+2026-02-04 | 0 | 0 | Cotton wool on teeth. 😱😱😱😱
+2026-02-24 | 0 | 0 | doesn't work
+2026-02-28 | 0 | 0 | You brush ur teeth after
+2025-12-29 | 0 | 0 | love the glasses
+2026-02-02 | 0 | 0 | As soon as you brush it’s goes.
+2026-03-19 | 0 | 0 | it dosnt work
+2026-02-02 | 0 | 0 | I’m on inverted
+2026-01-30 | 0 | 0 | How long does it last
+2026-03-27 | 0 | 0 | WOW!
+2026-02-02 | 0 | 0 | Mine dont stay on my teeth it slides 😂
+2026-01-31 | 0 | 0 | does it work on crowns
+2025-12-27 | 1 | 0 | I ordered mine just now. 😁😏
+2026-04-22 | 0 | 0 | How long do these last
+2025-12-28 | 0 | 0 | It don’t change that much
+2025-12-31 | 0 | 0 | Ooo I need😍
+
+## https://www.tiktok.com/@bestmajordeals/video/7537452277234191638 (100 comments)
+2025-08-12 | 59 | 22 | I used these, they work for about 5 minutes then they go back to normal
+2026-03-29 | 1 | 3 | Don't bother
+2025-09-09 | 9 | 8 | they don’t work
+2026-02-12 | 8 | 5 | £4 b&m
+2026-05-02 | 4 | 3 | wouldn't bother this stuff dosnt work i can testify 😁saved you time and money
+2026-05-15 | 1 | 1 | I ordered it and it's not what they it's. it's rubbish don't waste your money
+2025-09-09 | 1 | 8 | Me wearing whitening strips while watching this
+2026-03-13 | 1 | 3 | Don’t waste your money
+2026-03-18 | 2 | 1 | Been hearing today is the last day for a while and shit don’t work 😂
+2026-03-22 | 1 | 3 | They don’t work
+2025-11-03 | 1 | 6 | Mine dont work 😕
+2026-02-01 | 1 | 1 | Don’t work
+2026-04-30 | 0 | 1 | They don’t work
+2026-04-14 | 1 | 4 | They didn’t work for me.
+2026-05-10 | 0 | 1 | I don’t think it work
+2025-10-06 | 1 | 4 | why focus on ladies????
+2026-03-13 | 1 | 1 | Fake
+2026-05-02 | 0 | 1 | So fakeeee
+2026-01-26 | 2 | 1 | you need to make your mind up 1 minute its use for 2 weeks then you have use for a month???
+2026-05-15 | 3 | 1 | don't waste your money
+2026-01-20 | 2 | 1 | I brought the strips and the mouth one what a waist of money and that's a real review don't waist ur money.
+2026-01-30 | 3 | 3 | Fake ones
+2026-05-15 | 0 | 2 | its coming up 1699
+2025-12-30 | 1 | 1 | I have it it does work
+2025-12-30 | 1 | 1 | Why is it say £9
+2025-11-12 | 2 | 3 | Don’t have the money atm, if only they could extend it for another month
+2026-02-12 | 2 | 1 | Nope definitely don’t work, don’t waste your money. I did 🤷‍♂️
+2025-09-11 | 3 | 7 | I heard that this is gonna be the last day 2 weeks ago
+2025-09-28 | 2 | 4 | Sorry but they don’t work! Beaconsfield much better. I used 4 days worth and put them in the bin.
+2025-10-16 | 1 | 1 | Mine never worked at all
+2025-09-05 | 1 | 5 | is that you? zephplayz?
+2025-10-16 | 1 | 3 | it's on Amazon for £7
+2026-10-27 | 0 | 0 | Don’t work TRUST ME PLZ!!!
+2025-09-25 | 1 | 1 | Love these! 🥰
+2025-09-09 | 2 | 1 | sorry don't work 😏
+2025-09-06 | 4 | 1 | Cheaper in ebay
+2025-11-25 | 1 | 1 | I need these 😁
+2025-11-30 | 1 | 1 | Nice
+2026-07-21 | 0 | 0 | Never Was £20
+2026-04-20 | 0 | 1 | I’ve used these for 4 years plus and I love them my teeth are nice and white perseverance and using them properly helps massively 🤦‍♀️
+2025-08-29 | 2 | 1 | Haha I’ve been brushing my teeth al my life 😂😂😂
+2025-10-04 | 1 | 1 | just got 2 boxes of 42 for 19.99, 2 boxes of 14 were coming through at 9.99
+2025-10-02 | 1 | 1 | It not £9🙄🤦🙄
+2025-10-08 | 1 | 1 | Not work
+2025-09-14 | 1 | 1 | I literally got these on Amazon with free shipping and less than £9…
+2025-09-29 | 2 | 1 | These make my gums bleed
+2025-10-19 | 1 | 1 | £3 home bargains
+2025-10-02 | 1 | 1 | Thanks for your feedback guys
+2026-05-16 | 0 | 0 | What they dont tell u id that shipping is abt 8 pound
+2025-09-05 | 1 | 1 | 80th
+2025-10-21 | 1 | 1 | Love it
+2026-07-27 | 0 | 0 | They don’t work I brought some waste of your money
+2026-10-17 | 0 | 0 | wish it was the last day 😳
+2026-07-30 | 0 | 0 | These do not work
+2026-08-06 | 0 | 0 | 4 mins actually
+2026-06-02 | 0 | 0 | god whats he on
+2026-09-11 | 0 | 0 | just ordered mine cheers 🎈
+2026-05-28 | 0 | 0 | These do not work
+2026-06-22 | 0 | 0 | Does work great for a night out
+2026-05-27 | 0 | 0 | It’s been the last day for a year
+2026-05-24 | 0 | 0 | For the people saying it doesn’t work you have to brush your teeth first and then you use them 🙄😒
+2026-10-23 | 0 | 0 | who only ladies ??
+2025-11-17 | 3 | 1 | For ppl saying they don’t work, they do😂😂 they just don’t give immediate results cause they lack peroxide. 3 weeks and u will see decent progress without damaging the nerves in ur teeth and gums
+2025-10-11 | 1 | 1 | Algo
+2025-10-09 | 2 | 1 | So the whitening on your teeth only lasts for a day or two or until you brush your teeth.And then your teeth will go back to that yellow color
+2025-08-29 | 1 | 1 | what about the men and the other man ..C'mon
+2025-11-11 | 2 | 1 | it's not really going to be the last day though is it
+2026-10-20 | 0 | 0 | 😂rubbish
+2026-07-20 | 0 | 0 | DNT WASTE UR MONEY !!!! DONT MAKE A DIFFERENCE
+2025-09-18 | 3 | 1 | I’m sorry for my comment but I have it 20 pcs same brand I bought TikTok shop but it’s doesn’t work still my teeth 🦷 yellow
+2026-05-17 | 0 | 1 | You need to speak more louder!!’ We can’t hear you!!!!!!!
+2026-03-28 | 1 | 1 | FAKE
+2025-11-22 | 1 | 1 | It doesn’t works
+2025-10-29 | 1 | 1 | It won’t be the last day every day will be the last day and I don’t tell you about the damage it dust the enamel of your teeth
+2026-10-22 | 0 | 0 | CRAP
+2026-10-18 | 0 | 0 | £9 bullshit
+2026-10-12 | 0 | 0 | Shite don’t waste your money
+2026-09-29 | 0 | 0 | fell into that trap waste money
+2026-09-21 | 0 | 0 | Don’t work tried them
+2026-08-26 | 0 | 0 | WHO WANTS A FOLLOW BACK I PROMISE IM FOLLOWING BACK
+2026-07-18 | 0 | 0 | god that mouth
+2026-07-14 | 0 | 0 | my god his mouth
+2026-06-04 | 0 | 0 | Bought they don’t do shi don’t buy them guys waste of money
+2025-11-04 | 1 | 3 | 😂😂😂
+2025-11-03 | 1 | 1 | 🙈
+2026-01-27 | 1 | 1 | 😂😂😂
+2025-10-18 | 1 | 1 | 😂
+2025-10-08 | 1 | 1 | 🥰
+2025-10-07 | 1 | 1 | @mads🦭
+2026-11-16 | 0 | 0 | You’ve been saying that for the last few months lol
+2026-11-18 | 0 | 0 | Waste money
+2025-10-10 | 1 | 1 | Absolutely crap, used the whole pack as directed and all I got was sensitivity on my teeth…. Try the purple ones….but from another brand, maybe HIsmile, not from dr dent 👎👎
+2025-11-11 | 1 | 4 | I like yellow teeth.
+2025-10-23 | 1 | 2 | these don't work.. the purple ones do trust me
+2025-12-04 | 1 | 3 | these strips do not work look at the price for starters if they were that good would they have dropped so much?… they are a complete con if you want white teeth have a chat with your dentist… Merry Christmas
+2025-09-15 | 1 | 1 | they don't work. spend the money for crest strips.
+2025-08-31 | 0 | 3 | The 2.99 ones from home bargains work better
+2026-02-19 | 1 | 1 | did you know Ronaldo, Lionel Messi, Neymar Junior, Kylian Mbappe, Robert Lewandowski, Kevin De Bruyne, Mohammed Salah, Karim Benzema, Erling Haland, Gareth Bale, Luka Modric, Sergio Ramos, Tony Kroos, Paulo Dybala, Antoine Griezmann, Vinicius Junior, Andres Iniesta, Zlatan Ibrahimovic, Joao Felix, Phil Foden, Jack Greelish, Marcus Rashford, Jude Bellingham, Rahim Sterling, Ansu Fati, Memphis Depay, Rodrigo, Gerard Pique, David Alaba, Harry Kane, Janluigi Donnarum, Bruno Fernandes, Eden Hazard, Jorginho, Marcelo, Allison Becker, Trent Alexander-Arnold, David de Gea, Virgil van Dijk, Diego Costa, Sergio Aguero, Fernando Torres, Frank Ribery, Arien Robben, David Vila, Isco, Coque, Mats Hummels, Pierre-Emerick Aubameyang, xabiAlonso, Danny Alves, Keylor Navas, Casemiro, Kovacic, Rodri, Marco Verratti, Declan Rice, Thomas Müller, Romelu Lukaku, Olivier Giroud, Mauro Icardi, Diego Godin, Mario Mandzhukic, Ciro Immobile, Alexandre Lacazette, mario Bolotteli, Ferran Torres, Alexis Sanchez, Lorenzo Insigne, Jose Callejon, Kingsley Coman, Riad Marez, Marcel Zabitzer, Nicolo Barella, Gianluca Scamacca, Matthias de Ligt, Kalidou Coulibaly, Jorginho Wijnaldum, José Fonte, Lucas Hernandez, Diego Laxalt, Rafael Guerreiro, Ashraf Hakimi, Fabian Ruiz, Dani Olmo, Raúl Jimenez, Jaroslav Rakitsky, Alexander Golovin, Angel Di Maria, Bernardo Silva, José Maria Jimenez, Giorgio Chiellini, Leonardo Bonucci, João Cancelo, Theo Hernandez, Kai Havertz, Timo Werner, Serge Gnabry, Marco Royce, Julian, Emt, Silva, Marquinhos, Richarlison, Gabriel Jesus, Casemiro, Felipe Anderson, Willian, Rafinha, Ederson, Alex Telles, Gabriel Martinelli, Lucas Paceta, Bruno Guimaraes, Rodrigo De Paul, Angel Correa, Lautaro Martinez, Paulo Ottavio, Giovani Lo Celso, Nicolas Tagliafico, Emiliano Martinez, Facundo Medina, Alvarez play football this took me a whole hour to write so if you can like that means a lot
+2025-09-27 | 1 | 1 | 3 qued on TIMU bro
+2025-09-18 | 2 | 1 | Don’t work
+
+## https://www.tiktok.com/@louaira/video/7577016616651689238 (100 comments)
+2025-12-29 | 2662 | 10 | I can’t with the rubbing ur teeth with tissue 😖
+2026-02-17 | 1 | 0 | brightstrips.store …have the very best.
+2025-11-29 | 1723 | 4 | I’d say 4 at beginning not 6 sis
+2025-11-27 | 58 | 2 | How long do they last for
+2025-12-08 | 166 | 5 | Use eucryl powder it’s literally £1.50 and takes coffee stains off !
+2026-07-12 | 0 | 1 | do they really work?
+2026-01-30 | 98 | 3 | Why people are fake us?
+2025-11-30 | 5 | 0 | The game
+2026-10-09 | 3 | 4 | Can someone who’s not a bot confirm if they acc work plz
+2026-04-14 | 2 | 0 | Just ordered it ‘ got stains teeth smoking drinking tea there bad and I do look after brushing dental floss mouth wash now I’m sorry I ordered it if it last five minutes? Goes bk when u drink or eat that’s what videos should show ?
+2026-03-16 | 0 | 0 | I need a good teeth whitening strips🥺
+2025-11-27 | 205 | 2 | your meant to brush your teeth after xx
+2026-03-08 | 2 | 1 | do you brush teeth afterwards
+2026-02-24 | 5 | 1 | Why is everybody not using the bottom T when the?
+2026-05-26 | 3 | 0 | That's more of a 4 at the start. 😭
+2025-11-27 | 9 | 1 | More of her content out there?
+2026-11-13 | 0 | 0 | Lies from the hell!😡😡😡
+2026-08-10 | 1 | 0 | Wow!
+2026-02-03 | 10 | 1 | Looks amazing might have to try one
+2026-01-13 | 2 | 1 | Where did you get the nose ring?
+2026-11-16 | 0 | 0 | do these actually peoples views please
+2026-03-09 | 6 | 2 | guys it is worth it buy it and see how Good it is
+2025-12-19 | 9 | 1 | can you brush it off using tooth brush after?
+2026-04-07 | 18 | 0 | Jesus loves you💕
+2026-06-04 | 2 | 0 | How we can get it?!
+2025-11-26 | 126 | 3 | This is insane! Do they have charcoal in by any chance? I’m allergic to charcoal but would love this x
+2026-01-20 | 68 | 2 | it just changes the colour of the yellow. it doesn't remove it😭 thats why it only lasts an hour.
+2026-05-10 | 3 | 0 | okay how long does the whitening last?
+2026-11-09 | 0 | 0 | Can you do a video where you wash the product of properly with your tooth brush and use water because purple cancels yellow
+2026-04-24 | 5 | 0 | Oh I’ve got the toothpaste version so you don’t wash it off???
+2026-10-07 | 1 | 0 | I’ve just bought 3 packs of these tried them on today do you use them everyday I have the purple ones it may take a while to notice the difference 🥰
+2026-05-28 | 2 | 0 | it dosnt make ur teeth that white it helps a tiny bit but deff not that white
+2026-11-03 | 0 | 0 | Isn't it because the colour is blue?
+2026-07-30 | 0 | 0 | Placing the darkest color next to the lightest color forces your brain to exaggerate the difference, making the white appear even cleaner and brighter than it actually is ....lasts 5 secs people
+2026-04-01 | 3 | 0 | until you drink water lol come straight of
+2026-03-20 | 6 | 0 | Ciffee ir tea
+2026-01-27 | 3 | 0 | Literally you’re on number 3 :))😂 marketing
+2026-03-24 | 6 | 0 | You don’t have six at the beginning.. u have 2
+2026-05-15 | 1 | 0 | Wow let me order mine
+2026-04-18 | 1 | 0 | am i the only one who has water in my mouth when i use it?
+2026-04-08 | 3 | 0 | Can you put strips on false teeth
+2025-11-27 | 56 | 0 | do these actually work?
+2025-12-31 | 48 | 0 | Did mine this morning, didn’t work
+2025-12-10 | 57 | 0 | Why not show us after rinsing with water
+2026-01-22 | 11 | 0 | I just done it and it left my teeth patchy and hardly change the colour of them
+2026-03-26 | 23 | 0 | 😂 I did the same thing i wasn't expecting for the strips to work so well when I rubbed it off had a brand new smile for less than £10 lol I definitely recommend
+2026-01-29 | 5 | 0 | Waow 😍I am super impressed with this result
+2026-01-11 | 10 | 0 | So good! I got these recently too!
+2025-12-07 | 8 | 0 | I love my coffee thooo😭🤣
+2026-01-31 | 12 | 0 | Ur beautiful forget the whitening strips😭
+2026-01-05 | 4 | 0 | I am going to try them
+2026-02-16 | 1 | 0 | Bought from ur shop 🥰
+2025-11-26 | 3 | 0 | Your so gorgeous 😍😍❤️
+2026-01-27 | 3 | 0 | Ur teeth r already white tho
+2026-02-11 | 1 | 0 | not true
+2026-02-10 | 2 | 0 | Mine was a white not purple
+2026-04-09 | 2 | 0 | They don’t work
+2026-03-05 | 2 | 0 | hello
+2026-02-01 | 4 | 0 | yup , you’ve convinced me
+2026-02-04 | 1 | 0 | Don’t do anything
+2026-04-14 | 1 | 0 | hello
+2026-02-15 | 2 | 0 | gumagana ba talaga? yung sa true lang
+2026-03-27 | 2 | 0 | why is everyone literally doing the top not the bottom!!!
+2026-02-14 | 2 | 0 | How often do you have to use them?
+2026-02-08 | 1 | 0 | [no text - sticker/GIF only]
+2026-02-09 | 2 | 0 | Are you single?
+2026-04-25 | 1 | 0 | sheesh
+2026-10-14 | 0 | 0 | sunt minciuni ! am si ni fuctioneaza [Inocent]
+2026-01-25 | 2 | 0 | I got these and they’re soo good😍
+2026-02-24 | 1 | 0 | It’s that toothpaste on a bit of tape
+2026-02-10 | 2 | 0 | So l wish to know why do we need a whole pkt instead of one strip ?
+2026-04-26 | 2 | 0 | Purple whitening strips generally provide a temporary optical illusion of whiter teeth rather than deep, lasting whitening. Using color correction technology, the purple dye neutralizes yellow tones, making teeth appear brighter for roughly an hour.
+2026-04-16 | 1 | 0 | Did it last nite ‘ it worked then was bk to how it was in twentie mins don’t bother people please
+2026-01-14 | 1 | 0 | No but are they actually true results like I wanna know the truth
+2025-11-28 | 1 | 0 | 6
+2025-11-30 | 1 | 0 | Beautiful 🥰
+2026-07-04 | 0 | 0 | M I’ m c V
+2026-07-04 | 0 | 0 | I c
+2026-04-23 | 0 | 0 | Hello cutee
+2025-12-08 | 3 | 0 | its just for 2 or 3 minutes 👿
+2025-11-30 | 2 | 0 | nose ring is beautiful
+2026-04-14 | 0 | 0 | It’s fake. I tried it it. I left it for 30 min and it didn’t work at all no changes.
+2026-02-20 | 0 | 0 | A day
+2026-01-30 | 0 | 0 | Good
+2026-02-22 | 0 | 0 | HOW
+2026-01-16 | 0 | 0 | OMG I NEED
+2026-01-30 | 0 | 0 | It all not is thrue, because we have some pink stripes not dark blue..:
+2025-11-29 | 0 | 0 | You’re sooo beautiful
+2026-03-08 | 0 | 0 | Hi! How many strips are in one pack
+2025-12-28 | 0 | 0 | Ain’t no way that bro said 6 to 7 💀💀💀💀💀💀💀
+2026-01-31 | 3 | 0 | wag1 for you gums?
+2026-02-06 | 0 | 0 | [no text - sticker/GIF only]
+2025-12-09 | 1 | 0 | You was not a 6 going onto a 7
+2026-02-14 | 0 | 0 | he
+2025-12-14 | 1 | 0 | 😁😁😁
+2025-11-28 | 2 | 0 | @
+2026-02-18 | 0 | 0 | 😂😂😂
+2026-02-19 | 0 | 0 | 🥰🥰🥰
+2026-03-02 | 0 | 0 | 😁😁😁
+2026-03-08 | 0 | 0 | 😳😳😳

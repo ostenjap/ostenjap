@@ -15,7 +15,358 @@ WHY IT COUNTS AS SUCCESSFUL (confirmed by multiple sources)
   https://www.beautyindependent.com/indie-beauty-brands-surpassed-500-million-on-tiktok-shop-in-the-past-year/
 
 VIDEO URLS SCRAPED
-(none yet — add URLs to videos.json and run scrape_comments.py)
+https://www.tiktok.com/@kajsa.ziebell/video/7668599605776436493
+https://www.tiktok.com/@midlife.nursing/video/7569360221995371807
+https://www.tiktok.com/@dealsunlimited8/video/7685396811846044950
+https://www.tiktok.com/@faithfuldoc/video/7697361343967546654
 
 RAW COMMENTS
-(not yet collected — TikTok was unreachable from the environment that built this file)
+# collected 2026-11-23 via Apify clockworks~tiktok-comments-scraper: up to 100 top-level comments per video,
+# in TikTok's default order, replies not included, usernames not saved. 338 comments in this file.
+# format: date | likes | replies | text
+
+## https://www.tiktok.com/@kajsa.ziebell/video/7668599605776436493 (100 comments)
+2026-08-13 | 338 | 13 | Thats a great way of putting it: If youre young - Medicube If you're older - Dr. Melaxin Thanks for the tutorial and explanation girlfriend!!!!
+2026-08-01 | 1260 | 88 | I loved medicube until i learned they are testing on animals, it’s a no no for me ever since
+2026-09-03 | 28 | 1 | I love seeing Dr. Melaxin work on skin that's been through "LIFE". I'm sticking with Melaxin❤️
+2026-08-02 | 2268 | 10 | First video I’ve seen not shutting the other company out. Bravo for being diverse and honest! Everyone’s skin is different but I use melaxin
+2026-11-22 | 0 | 0 | This was sooo fast...I am sooo confused
+2026-11-23 | 0 | 0 | love medicube
+2026-08-12 | 889 | 22 | I love this video. My 3yr old son loved it more cause he thought you had a fruit roll-up on your face
+2026-11-15 | 30 | 1 | This made me want a fruit by the foot
+2026-08-02 | 704 | 3 | Liking this literally just so you can get that bag because FUCK YEAH RECOVERY
+2026-10-10 | 29 | 1 | my adhd didnt allow me to understand lol
+2026-08-01 | 356 | 14 | but what does the fruit roll up do?
+2026-07-31 | 670 | 3 | This is the best comparison video I’ve seen!
+2026-08-01 | 12 | 4 | I feel like I should use one in the morning and then the other one in the evening.
+2026-08-01 | 682 | 3 | Hands down the most informative comparison, and i have been down the rabbit hole girl, let me tell u. Thank u!
+2026-08-01 | 287 | 16 | I use medicube and Dr malaxin in tandem because many items can be switched between one another for your particular needed results 💯
+2026-08-01 | 8 | 2 | So wtf is the best product?! 😳
+2026-08-02 | 24 | 3 | I love this but girl are you using fruit roll up as tape 😭
+2026-08-01 | 113 | 4 | Anyone else suddenly have a craving for a fruit by the foot? 🤣🤣🤣
+2026-08-04 | 115 | 0 | After watching this, I think I’ll buy the fruit rollup😋
+2026-08-03 | 11 | 4 | hate the nail tapping no need
+2026-08-01 | 201 | 8 | I LOVE medicube. I just started using it 4 months ago and my skin is finally under control! I love the soothing serum for my rosacea.
+2026-10-04 | 28 | 0 | Honestly; this is the only video that has ever influenced me. You described BOTH products, didn’t trash either product and showed receipts/results. Thank you for your honesty and the feedback on these products.
+2026-08-12 | 7 | 2 | I like to switch things up. After a few months I will change entire lineup of products. I think my skin gets too comfortable after awhile and I switch products for it to go hey I like the change.
+2026-08-01 | 20 | 5 | medicube pink stick is doing nothing for me
+2026-08-23 | 10 | 0 | I am totally overstimulated 😂 I am too old to remember all that info😂
+2026-08-01 | 5 | 1 | Why am I suddenly hungry for a fruit roll-up? 🤔
+2026-08-01 | 5 | 3 | Just wish they didn’t test on animals 🥺
+2026-08-08 | 8 | 8 | What order do you use the Dr Melaxin bundle in?
+2026-08-02 | 6 | 1 | as much as I loved this video, as a foodie all it made me do is want a fruit roll up...
+2026-11-23 | 0 | 0 | 55 and FOLLOWING❣️❣️❣️
+2026-08-02 | 8 | 1 | Medicube’s one day exosome does microneedling as well
+2026-08-03 | 7 | 2 | 👀 I’m way out of touch because I’ll I thought about was is that a fruit roll up?
+2026-09-26 | 21 | 5 | You nailed this comparison! I have seen visible results with Medicube + Estradial (yes the stuff for your V) I'm 65 and need it for my pelvic floor. i love the idea of mixing Melaxin and Medicube. why not get the full effect from both!! I will also wear a Shein dress with a designer handbag. whatever works!!
+2026-08-02 | 26 | 11 | Thank you! Just bought the malaxin! I’ve been using medicube for a while and I love it but I want to try malaxin since I just turned 47. I want to see the difference.
+2026-08-02 | 42 | 2 | I use Dr Melaxan and have for about 3 months. I’m on my second bundle pack and I have noticed a HUGE difference. I rarely wear makeup anymore, and if I do it’s light or a tinted sunscreen. I’m 40 and no one would ever know it.
+2026-07-31 | 10 | 3 | I can’t choose I want to buy one set for my momma
+2026-08-03 | 8 | 1 | I must be snacky because I legit spent the first 40 seconds trying to figure out how you got the fruit roll-up paper to stick to your face 🫠
+2026-08-03 | 5 | 1 | Is one better for mature skin than the other?
+2026-08-01 | 6 | 1 | You are the only person I have seen that wears the eye patch the way I do it makes more sense to me to put the pointed end in the inner corner under my eyes
+2026-11-22 | 0 | 0 | Ok so I want both sets now lol
+2026-11-22 | 1 | 0 | very educated! you sold me on both 🤣🤣🫶
+2026-11-22 | 0 | 0 | Thank you
+2026-11-22 | 0 | 0 | What about for acne scar skin ?
+2026-11-21 | 1 | 0 | And I just bought the medicube serum. 😣
+2026-11-15 | 0 | 3 | Is either brand good for sensitive skin?
+2026-10-28 | 1 | 1 | damn I just ordered medicube stuff ...
+2026-11-22 | 0 | 0 | I’m SOLD ❤️
+2026-11-14 | 1 | 0 | I got melaxin. didn't do shit
+2026-10-10 | 1 | 2 | what if you tried medicube and it broke you out??
+2026-09-24 | 0 | 1 | What order do you use in and when do you do it????
+2026-10-09 | 1 | 2 | I have incredibly dry skin how is dr melaxin on dry skin because I worry about anything that helps acne because its usually drying
+2026-10-10 | 1 | 1 | Where I find the Medicube? I’m younger!
+2026-10-14 | 0 | 1 | Is there anything good for wrinkly hands?
+2026-11-07 | 1 | 1 | I’m more confused than ever 🤣🤣🤣🤣🤣
+2026-11-02 | 0 | 1 | Ok but what face wash do you use with these??
+2026-11-08 | 1 | 0 | I love that you broke them down cause I been wondering
+2026-10-11 | 1 | 1 | I just turned 60 and ordered the malaxin! I’m excited 😜
+2026-10-27 | 2 | 1 | I use both 😅
+2026-10-11 | 2 | 0 | Can you give the order to use the products in the set?
+2026-10-22 | 3 | 0 | So like, I don’t know if the universe heard my thoughts but I literally thought about looking up comparison videos in bed last night. I lean toward wanting Dr. Melaxin. This video has confirmed my want for it. You can see a clear difference. I lost a lot of weight, that I didn’t need to lose, and now my face needs love 🥹
+2026-09-21 | 9 | 0 | Great video. I just see too many products to chose from and it’s overwhelming
+2026-10-06 | 2 | 2 | I have both of these sets and have been waiting for a video like this!! Thank you!
+2026-10-16 | 1 | 0 | What if you have rosacea?
+2026-11-15 | 3 | 0 | So…: what do I buy? lol
+2026-11-21 | 1 | 0 | Please yes which is better for a 40 y/o ? Sooo confused
+2026-08-03 | 30 | 2 | Medicube 100% 🤩 I absolutely love it, been using it for about 4/5 months now 🤩
+2026-08-01 | 21 | 2 | Honestly I love the mix of both 🫶🏼
+2026-11-04 | 0 | 1 | is 27 considered younger or older
+2026-08-01 | 10 | 2 | its crazy how fast it works!
+2026-08-01 | 26 | 7 | I stared medicube a few months ago and love the results. But my next set will be melaxim so I can compare lol
+2026-08-02 | 6 | 2 | Thank you for being so honest and informative 🥰
+2026-08-06 | 13 | 2 | This is by far the most helpful review I’ve ever seen 👏👏
+2026-08-01 | 18 | 7 | I love both sets. I love that you did this video. My question is can you mix the products together like use the picatonic shot with medicube
+2026-08-01 | 6 | 1 | thank you btw i bought this from seeing you a few weeks ago. my skin is super sensitive and i as using Neocutis (super expensive and good) and tried the set and my skin s looking dewy and feels so good for less than a quarter of the price of my HA from Neo
+2026-08-01 | 6 | 2 | fantastic explanation!
+2026-08-04 | 7 | 1 | Girl you killed this!!!! Wow! Best ad Ive seen thus far! 👏🏻 👏🏻 👏🏻 🔥
+2026-08-04 | 19 | 1 | This is the best ad I’ve seen for this since it’s hit my for you. I finally hit purchase because you’re recommending it’s best for mature skin.
+2026-08-01 | 5 | 1 | so we use both...for the best results
+2026-08-01 | 5 | 1 | I have both and really like both yikes
+2026-08-01 | 7 | 1 | I use them both. they work really well together on my skin.
+2026-08-01 | 5 | 1 | I love them both ans use them both. I am 52 and my skin loves both😁
+2026-08-01 | 11 | 1 | I have medicube. It’s okay. I tried my mom’s Dr Melaxin…I like it more!!
+2026-08-01 | 5 | 1 | I use both lol
+2026-08-02 | 5 | 1 | I got everything for like $35. Insane! Thank you!!!
+2026-08-09 | 7 | 1 | I swear by any product that replicates micro needling 🙌
+2026-08-01 | 32 | 4 | Medicine also has a spicule exosome serum and it's great
+2026-08-01 | 3 | 2 | Medicube has the spicule serum
+2026-08-03 | 4 | 2 | What age would you say is better to use Dr melaxin
+2026-11-15 | 32 | 0 | Dr. Melanin for aging skin. Thank you so much for this video. I so needed this
+2026-09-10 | 6 | 0 | Ok I will get both 😌
+2026-08-06 | 6 | 0 | First creator that bought me. ❤️
+2026-08-03 | 5 | 1 | Brilliant post! Thanks ❤️
+2026-08-01 | 9 | 1 | I love using both. I alternate the melaxin and medicube neck products and love the nad serum
+2026-08-06 | 30 | 3 | Great post! As a 61 year old, Dr. Melaxin works best on my mature skin.
+2026-08-01 | 4 | 2 | this was really helpful. I've gone wild in the recent sale on both melaxin and medicine and want sure what to use when or how. thank you.
+2026-08-02 | 4 | 2 | Soo dr melaxin?
+2026-09-06 | 5 | 0 | I always skip these, but this was extremely informative! I actually really appreciate it. great job!
+2026-08-08 | 3 | 2 | Any chance you can write this down? I can’t keep up.
+2026-08-01 | 16 | 3 | I switch between both plus the probioderm spray is amazing too
+2026-10-11 | 5 | 0 | Excellent video! Thanks for sharing this information. 🤗💯🛍️🛒
+
+## https://www.tiktok.com/@midlife.nursing/video/7569360221995371807 (100 comments)
+2025-11-16 | 12 | 2 | I want to try these entire set so bad!!
+2025-11-09 | 4 | 7 | why does it say$59 .. and when I add it to my cart it is 69
+2025-11-07 | 1 | 1 | Are they trial size
+2026-08-22 | 0 | 0 | How to buy
+2025-11-21 | 7 | 8 | Does anyone know if this is better than medicube?
+2026-05-14 | 0 | 0 | Send me link please
+2025-11-07 | 38 | 2 | All of this stuff works!!! 55 here
+2025-11-07 | 1 | 1 | I really want to try this!
+2025-12-06 | 0 | 1 | what about a face wash ? or toner? 💕
+2025-11-16 | 2 | 1 | Do you use every bottle every day?
+2025-11-12 | 2 | 1 | Amazing products they are work do well!
+2025-11-29 | 1 | 1 | I ordered it I can’t wait 🥰🥰
+2025-12-01 | 0 | 2 | In what order would you use it cause I just bought it and I’m dying to use it
+2025-11-08 | 1 | 1 | Omg I need this I love their products
+2026-09-03 | 1 | 1 | Is this for all type of skin
+2025-11-16 | 1 | 1 | Thanks for sharing lm gonna try it
+2025-12-08 | 1 | 1 | is this only done at night or morning and night
+2025-12-14 | 0 | 1 | What’s the best order to use this products?
+2025-11-14 | 1 | 1 | Great deal
+2025-12-16 | 1 | 1 | Is it Korean?
+2025-12-02 | 0 | 1 | I’d love to get gifted the cream moisturizer! I’ve purchased the other set
+2025-11-09 | 1 | 1 | Just bought!! I’m excited to get mine in, this was the best deal I’ve ever seen!!
+2025-11-07 | 5 | 3 | Do you use them one after the other. Or do you use some in the morning and then the rest at night. Or do you use some of it one day and them the rest the next day?
+2025-11-16 | 1 | 1 | I have the smaller bundle with cleanser, toner, 2 peels & shots. No purple products. I need it next. The cleanser is the best.
+2025-11-19 | 4 | 1 | Just got mine and used it for the 1st time this morning. LOVE IT ALL!!!
+2025-11-13 | 12 | 1 | I wish I could afford this. Unfortunately, at this time I cannot.
+2026-02-07 | 0 | 0 | What order do we use this in?
+2025-11-10 | 0 | 0 | Lovely set
+2026-01-16 | 0 | 0 | still waiting for mine!!
+2025-11-07 | 12 | 1 | Been looooving the stick and eye patches!! My skin is SO smooth and eye bags not as dark. The eye patches feel so amazing and cooling!
+2026-04-04 | 0 | 0 | How to buy these products
+2025-11-28 | 2 | 0 | How long do you have to do this to start seeing results
+2025-11-21 | 7 | 0 | Dr Melaxin is such a great product
+2025-12-27 | 1 | 0 | Just bought mine xx oo
+2025-11-25 | 1 | 0 | You used to picotonic shot and then the pink spicule
+2025-11-19 | 1 | 0 | wow what a deal
+2026-11-09 | 0 | 0 | Does anyone know if this whole line can be used in pregnancy?? 🤰
+2026-01-11 | 0 | 0 | Just purchase this finally
+2025-12-26 | 0 | 0 | I want to try this so bad…. Hopefully I will be able too
+2026-01-09 | 0 | 0 | I purchased the P. Shot, I used it last night. My face felt great and soft. Exfoliating was great 👍
+2025-12-14 | 0 | 0 | Does it contain any fragrance? 🥺
+2026-10-02 | 0 | 0 | The other 2 how u use them
+2026-04-26 | 0 | 0 | I’m The zThe pt is Shania🎍🎄🎄😶🤓🫡🎍🎍🎄🎍🎄🎍🤷‍♀️🎄
+2025-12-24 | 0 | 0 | still waiting for mine
+2026-03-28 | 0 | 0 | I'm in Dubai
+2026-02-22 | 0 | 0 | How can I order this bundle following
+2026-02-01 | 0 | 0 | good for u
+2026-03-10 | 0 | 0 | donde puedo comprarlo?
+2025-11-30 | 0 | 0 | Just got mine
+2026-03-14 | 0 | 0 | price pls
+2025-12-26 | 0 | 0 | Mine comes up $43 with coupons
+2025-11-26 | 0 | 0 | mine just came today
+2025-11-17 | 0 | 0 | Can someone gift this to me please?!?
+2026-04-12 | 0 | 0 | How do I purchase?
+2026-03-08 | 0 | 0 | donde lo puedo comprar
+2026-01-01 | 0 | 0 | Just for women? Or can guys use?
+2026-04-14 | 0 | 0 | top ❤️
+2025-12-14 | 0 | 0 | been wanting to try so bad, however been on backorder for a while
+2025-11-24 | 0 | 0 | me too really
+2025-11-18 | 0 | 0 | Such a great kit!
+2025-11-17 | 0 | 0 | I would love to be gifted with the under eye bottle
+2025-11-19 | 0 | 0 | No disponble
+2026-03-04 | 0 | 0 | Donde puedo saber precio y donde puedo conseguirlo?
+2025-11-24 | 0 | 0 | I just got that and can’t wait to try it. I love the other set with cleanser toner, etc
+2025-11-25 | 0 | 0 | It a great price! I spend 100.00 on one cream 😳
+2025-11-08 | 0 | 0 | Dr Melaxium
+2025-11-14 | 0 | 0 | That’s a great ad!
+2025-11-16 | 0 | 0 | Yes!!!!🥰🥰
+2025-12-08 | 0 | 0 | thank you for sharing this
+2025-11-29 | 1 | 0 | Thing I try from this brand is amazing
+2025-12-21 | 0 | 0 | In what order?
+2025-12-11 | 0 | 0 | Can u make a video n how to use maby say 1 -2 etc i bought one but still don’t know how or were to start
+2026-03-22 | 0 | 0 | oh wow 😊
+2025-12-18 | 0 | 0 | this stuff is great!!!
+2025-12-07 | 0 | 0 | I love all these products are the best.
+2025-12-01 | 0 | 0 | i hope it works great bc even 70 dollars is a lot.
+2025-11-26 | 0 | 0 | Ok. I just bought this. I hope this works.
+2025-12-01 | 0 | 0 | Thank you so much. I’m waiting for mine to come in.😁😁😁
+2025-12-06 | 0 | 0 | 💕💕💕💕💕💕I would LOVE to try these products!!!!💕💕💕
+2025-11-20 | 0 | 0 | I love it🥰
+2025-11-13 | 0 | 0 | need to add to cart
+2025-11-19 | 1 | 2 | I just bought this from you!!❤️🙏💯
+2025-11-13 | 1 | 1 | Omg I’m getting broke because of TIKTOK 😳😳😳😳
+2025-11-10 | 1 | 1 | Have had this in my cart, will have to try it
+2025-11-14 | 0 | 0 | Sweet
+2025-11-17 | 0 | 0 | I want to buy and I'm glad I see the nice results coming in that it's great product
+2025-11-25 | 0 | 0 | I want this so much!
+2025-11-19 | 0 | 0 | Great bundle
+2025-11-07 | 1 | 0 | 🥰🥰🥰
+2026-03-28 | 0 | 0 | 👌👌👌
+2026-01-17 | 0 | 0 | 😁😁😁
+2026-01-11 | 0 | 0 | 💯
+2026-01-06 | 0 | 0 | 💜💜💜
+2026-01-04 | 0 | 0 | @Starlet Skincare I have dry sensitive skin. I hear you have big opinions. What do you think about this?
+2026-01-03 | 0 | 0 | 🥰
+2026-01-03 | 0 | 0 | 🤣
+2026-01-02 | 0 | 0 | 😁😁😁
+2025-12-31 | 0 | 0 | 🥰
+2025-12-27 | 0 | 0 | 🤣
+2025-12-27 | 0 | 0 | 💃
+
+## https://www.tiktok.com/@dealsunlimited8/video/7685396811846044950 (84 comments)
+2026-10-05 | 5 | 2 | It does not work!
+2026-11-16 | 6 | 5 | I’ve just had this delivered and it says the entire box and only received 5 items so sending it right back! So misleading
+2026-10-31 | 4 | 1 | requested a refund n sending back... only 5 items not what is advertised in the video shouldn't be allowed to sell
+2026-11-10 | 1 | 1 | I count 14 or 15 items in that box and she saying you get all of it ,so is that 15 items you get or 5 like everyone is saying ?
+2026-11-08 | 0 | 1 | Why doesn’t anyone ever show exactly what you receive rather than misleading you by showing more? Wouldn’t buy from anyone not being honest about what’s in the package. Doesn’t help that the Dr Melaxin site doesn’t detail what products come in the bundles either. It’s very disingenuous
+2026-10-08 | 4 | 2 | are they cruelty free?
+2026-09-26 | 1 | 5 | How many products do you actually get?
+2026-11-14 | 0 | 1 | Wow all those products
+2026-09-18 | 4 | 2 | the link is for mych less itemd?
+2026-11-17 | 0 | 1 | there are so many misleading adverts tiktok need to step in and stop them
+2026-10-22 | 0 | 0 | Half the box is empty boxes
+2026-11-20 | 0 | 0 | Yeah looks like there’s two of each product ?
+2026-11-20 | 0 | 0 | You showed 10… swizz!
+2026-11-20 | 1 | 0 | it is misleading through the video...there is a but I think its still worth it though these items in shops would probably cost 80 to 100 pound in superdrug boots etc...Still a good deal
+2026-10-14 | 5 | 0 | 5 products — showing 50
+2026-11-07 | 0 | 0 | is it 2 of each
+2026-11-07 | 0 | 0 | so not the whole box then
+2026-10-26 | 0 | 0 | im sending mine back total con
+2026-11-11 | 0 | 0 | You get one of each
+2026-11-22 | 0 | 0 | WOW
+2026-10-17 | 0 | 0 | £33 for me thankyou
+2026-10-24 | 0 | 0 | is it just me bothered that its in a dirty box?
+2026-10-21 | 0 | 0 | I got mine for free I’m not complaining
+2026-10-15 | 3 | 0 | Why do people do this and say you get the entire box it winds me up
+2026-10-22 | 0 | 0 | exactly what puts you off, tempted with Dr Melaxin however dodgy adverts makes me think twice
+2026-10-09 | 1 | 0 | But the box has more than 5 products
+2026-10-09 | 1 | 0 | they sell this in boots,£20 just for one item.
+2026-10-09 | 1 | 0 | You don’t get doubles btw
+2026-09-23 | 1 | 0 | Still not figured out what I have! They are fab
+2026-11-18 | 0 | 0 | Wow
+2026-09-27 | 1 | 0 | 1 of each
+2026-10-06 | 1 | 0 | My skin has gone terrible with this I mean how can they give so much stuff out cheap don’t no wat it’s made of going to get all mine checked out my skin looks burnt
+2026-10-13 | 1 | 0 | hurry up move now😂🥰
+2026-09-18 | 1 | 0 | Loving it xx
+2026-09-25 | 39 | 3 | You get this entire box worth £300! False advertising ! You get 1 of each items for £42 🤯
+2026-10-07 | 2 | 0 | no U don't U get 1 of each don't make it look like U get the entire box in it.
+2026-11-18 | 0 | 0 | I ordered two of this box and 5 items for each where delivered Wdf il be sending both back
+2026-10-15 | 1 | 0 | fake
+2026-11-14 | 0 | 0 | LIES
+2026-10-22 | 0 | 0 | AI finger ✨
+2026-10-20 | 0 | 0 | LIE
+2026-10-15 | 22 | 5 | Well it’s not exactly the entire box is it now 😏
+2026-10-16 | 3 | 0 | entire box?? ya lying? Stop! just let us exactly what we are getting!
+2026-10-16 | 3 | 0 | please do not lie
+2026-10-06 | 2 | 0 | ITS A SCAMMMMMMMMMM GUYS!!!
+2026-10-20 | 1 | 0 | false advert
+2026-10-16 | 1 | 0 | surely you can never use that amount of product? you only have 1 face.
+2026-11-11 | 0 | 0 | Alll shit dont work
+2026-11-09 | 0 | 0 | Ooooooh sneaky bloody liars.
+2026-10-23 | 0 | 0 | lots of faulse advertising lately on tictoc and sizes every seem to be blown up to look bigger 🤔
+2026-10-20 | 0 | 0 | Overconsumption core
+2026-09-25 | 37 | 1 | False advertising you only get one of each not the entire box!!
+2026-10-04 | 25 | 0 | This video is so misleading .
+2026-09-28 | 16 | 0 | false advertisements.
+2026-10-06 | 11 | 0 | Very misleading advert ,you don’t get the entire box you get 5 products 🤦‍♀️huge difference !
+2026-10-06 | 7 | 0 | 1 of each. misrepresentation 😏
+2026-10-05 | 7 | 0 | False it’s NoT 2 of Each item It’s Only One !! FALSE Advertisement!!
+2026-10-08 | 6 | 0 | Aye but this very false advertisement you get one of each not 3 of each
+2026-10-07 | 5 | 0 | this video shouldn't be allowed why show a box full of stuff
+2026-10-01 | 7 | 0 | false advisement...
+2026-10-08 | 2 | 2 | Save your money. Supermarket own brands are more effective than this.
+2026-10-03 | 3 | 0 | Stop advertising you get the full box, you don’t you get one of each product. I like the stuff already bought it. These adverts are misleading at best. I can think of other words.
+2026-10-22 | 0 | 0 | lies. you get 5 items only. you don't get the entire box.
+2026-09-26 | 2 | 0 | I’ve been using these for nearly a month. Nothing has change for my skin. Still bags under eyes wrinkles
+2026-10-22 | 1 | 0 | False advertising, be honest you only get one of each product
+2026-10-09 | 2 | 0 | @Angie-My Hysterectomy Journey
+2026-09-15 | 2 | 0 | [Heartwarming][Heartwarming][Heartwarming]
+2026-10-13 | 1 | 0 | this is all AI and misleading tick tock sort it out
+2026-10-12 | 1 | 0 | 😳😳😳
+2026-09-15 | 1 | 0 | 🥰🥰🥰
+2026-11-19 | 0 | 0 | so why do you show 10 products . misleading !!
+2026-11-19 | 0 | 0 | dont believe it. when they get your money they sent only what they wanted.
+2026-11-16 | 0 | 0 | ITS A SCAM! I RECEIVED 1 ITEM!!
+2026-11-16 | 0 | 0 | the advert is misleading
+2026-11-18 | 0 | 0 | 🥰🥰🥰
+2026-11-11 | 0 | 0 | false advertisng
+2026-11-14 | 0 | 0 | 😳😳😳
+2026-11-07 | 0 | 0 | This video is false advertising you don’t get that entire box
+2026-11-01 | 0 | 0 | this is a lie , buy this and you get just 5 products..... not double .... I know because I bought it 😳
+2026-11-03 | 0 | 0 | 😍
+2026-10-24 | 0 | 0 | It s only 1 of every one I cancelled my order shame on you!! False advertisement
+2026-10-24 | 0 | 0 | until you click on and see what it is exactly your getting ...you shouldn't show this because its very misleading saying your getting the whole entire box when in actual fact its just 5 items ...and saying its worth over 300 quid [Snicker]lol
+2026-10-22 | 0 | 0 | u get 1 of each of these not 2 like your showing 😡😡😡😡😡
+2026-10-19 | 0 | 0 | ⭐️⭐️⭐️⭐️⭐️👍👍👍👍
+
+## https://www.tiktok.com/@faithfuldoc/video/7697361343967546654 (54 comments)
+2026-11-18 | 2 | 1 | What about with the peel shot?
+2026-11-23 | 0 | 0 | Thanks for the product routine 👏
+2026-11-19 | 1 | 1 | Do you wash off the pink stuff?
+2026-11-17 | 1 | 1 | Should all be used daily except the first one?
+2026-11-21 | 1 | 0 | I bought this bundle used once and ended up with massive spots. I never get spots
+2026-10-29 | 5 | 1 | People Please Honestly which one is Better for 63 mature skin, with dark spots , dry patches, eye bags!??
+2026-11-22 | 1 | 0 | can you use sunscreen moisturizer on top of this afterwards
+2026-10-20 | 34 | 0 | finally a video that explains why each step happens at certain points THANK YOU!!! I've never seen anyone else say to be gentle with the spicules 😱 they rub it in so aggressively
+2026-11-18 | 2 | 0 | Sunscreen ❓
+2026-11-23 | 1 | 0 | thanks for the information 👍
+2026-10-20 | 4 | 2 | I have almost black under eye circles and on my eye lid. Was told from having allergies. I also have rosacea. Extremely stnsative skin. I do not ware makeup. Does those products have any fragrances. And will the under eye cream help cover my very dark circles.
+2026-11-22 | 1 | 0 | Just got mine in and numbered in order
+2026-11-20 | 1 | 0 | Thank you for this video , I was applying the product wrong, however the product has worked amazing on my face . Smooth , lees deeper wrinkles. The highlight of this bundle has to be the eye patch put them in the fridge apply and boom . 💞
+2026-11-02 | 1 | 0 | my bundle looks a bit different & I'm not sure of the order to use them 😭
+2026-11-19 | 2 | 0 | I got this bundle pus the peel shot.. where does the peel shot fit into the routine?
+2026-11-22 | 1 | 0 | do you have to use all these products, can you just use the first one
+2026-10-25 | 0 | 0 | OK, I’ve bought so many products over the years. It’s ridiculous. I’m going to say, I noticed the difference in my skin. My rosacea is so much better. But where I really noticed it is around my mouth on either side of the corners, the lines that were there are so much smoother!
+2026-11-22 | 1 | 0 | Thank you sooo much for doing this video. Does it matter the direction I use the eye patches? New to these products.
+2026-11-17 | 1 | 0 | is it ok to use on sensitive skin
+2026-11-08 | 1 | 0 | Love Dr. Melaxin!
+2026-11-05 | 1 | 0 | Thank you for this information!
+2026-10-26 | 3 | 0 | At what point do I incorporate my tretinoin?
+2026-11-13 | 1 | 0 | Do you put a toner on before you start?
+2026-11-12 | 1 | 0 | is it normal to have like flakes come off once applied they are popping up all over my face.
+2026-11-06 | 1 | 0 | So we don’t use toner?
+2026-10-20 | 3 | 0 | is this product better than medicube??
+2026-11-09 | 1 | 0 | How often do you use eye patches?
+2026-11-08 | 1 | 0 | how long will this set last
+2026-10-31 | 4 | 0 | So you all this of a night time then
+2026-11-13 | 1 | 0 | What is a good brand to clean your face with?
+2026-11-18 | 1 | 0 | Great video thanks for the great information on how to use x
+2026-11-08 | 1 | 0 | A PERFECT BREAK DOWN THANK YOU QUEEN 👑
+2026-10-31 | 2 | 0 | The pink foaming cleanser is the best step zero.
+2026-11-11 | 2 | 0 | My skin has never felt better with this bundle! Can’t wait to see the change over time.
+2026-10-19 | 2 | 0 | Which do you prefer medicube or Dr. Melaxin?
+2026-10-25 | 3 | 0 | thank you for these steps!! it feels a little overwhelming at first.
+2026-11-05 | 0 | 0 | Can I use peel shot? whit
+2026-10-27 | 0 | 0 | Is this all you need for a skincare routine for 42 year old skin?
+2026-10-29 | 0 | 0 | This one or Medicube??
+2026-11-07 | 0 | 0 | Where have been Dr! Needed this abt 1 year ago !
+2026-10-26 | 0 | 0 | Can you use the pink Spicule serum if you have rosacea?
+2026-10-25 | 1 | 0 | Thank you! I bought it but the steps aren't in English.
+2026-11-01 | 0 | 0 | Question I have the Dr Melaxin for my dark spots on my face and my question is can I still use my dark spot corrector cream???
+2026-11-03 | 0 | 0 | Hi.. Do you wash it off after applying or leave it on all night long while sleeping?
+2026-11-02 | 0 | 0 | It seems kind of pricey for as much as you’re getting
+2026-11-09 | 0 | 0 | what should i use for acne. bc im 36 and i still have acne???
+2026-11-20 | 1 | 0 | @Edna
+2026-11-16 | 1 | 0 | @Ellie Ro Evs 🫶🏼❤️‍🔥
+2026-11-09 | 1 | 0 | Why use all them why doesn’t just 1 work
+2026-11-13 | 0 | 0 | 🥰🥰🥰
+2026-11-11 | 0 | 0 | 😍😍😍
+2026-11-03 | 0 | 0 | I don’t need but the first three because I’ve ordered so many that I have plenty under the eye. I wish you didn’t have to get the bundle.
+2026-10-28 | 0 | 0 | 😁😁😁
+2026-10-22 | 0 | 0 | 👍

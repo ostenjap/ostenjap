@@ -15,7 +15,376 @@ WHY IT COUNTS AS SUCCESSFUL (confirmed by multiple sources)
   https://www.tiktokshop.com/pdp/medicube-body-care-set-exfoliating-brightening-k-beauty/1732052189676081387
 
 VIDEO URLS SCRAPED
-(none yet — add URLs to videos.json and run scrape_comments.py)
+https://www.tiktok.com/@justtrendy31/video/7670790859826269453
+https://www.tiktok.com/@amyflamy1/video/7567422151368789265
+https://www.tiktok.com/@trulyglowin/video/7662768351407607071
+https://www.tiktok.com/@leslypocasangre/video/7663147708638596382
 
 RAW COMMENTS
-(not yet collected — TikTok was unreachable from the environment that built this file)
+# collected 2026-11-23 via Apify clockworks~tiktok-comments-scraper: up to 100 top-level comments per video,
+# in TikTok's default order, replies not included, usernames not saved. 356 comments in this file.
+# format: date | likes | replies | text
+
+## https://www.tiktok.com/@justtrendy31/video/7670790859826269453 (100 comments)
+2026-09-25 | 134 | 23 | DOES NOT WORK!!!
+2026-08-07 | 6 | 4 | They broke me out
+2026-08-29 | 6 | 1 | Which sunscreen do you recommend?
+2026-08-24 | 64 | 4 | Heavy on the SUNSCREEN!!! Yes black folk, sunscreen!
+2026-08-11 | 7 | 7 | You lost me at sunscreen
+2026-08-13 | 102 | 4 | Sunscreen saved my skin
+2026-08-13 | 283 | 11 | I purchased the kojic acid bundle in March, long story short it works! I moved to a new home in 2020 and while moving furniture I scraped both my legs in different places they healed but I had these dark brown areas. This bundle helped to completely clear up some of them and lighten the others, especially if you cut up that kojic acid toner pad and let it sit for good 5-10 minutes on the dark spots. Highly recommend🙏🏾
+2026-08-21 | 6 | 3 | So the body wash goes on private areas
+2026-08-14 | 55 | 11 | I bought mine from your link just got it today I have severe hyper pigmentation on my legs, so I’ll come back in a few months and post my review on this product thank you Queen 🙏
+2026-09-28 | 85 | 3 | I love u for this❤️❤️❤️
+2026-08-26 | 10 | 2 | Anyone actually used this product and seen results ?
+2026-11-23 | 6 | 0 | I’ll share an update after trying it. Not expecting much, I’ve already tried tons of other products.
+2026-08-24 | 1338 | 30 | someone please confirm im tired of seeing the paid partnership and getting scammed
+2026-09-05 | 6 | 1 | Can u use on the face ?
+2026-10-11 | 3 | 0 | ?? Is there a good full body sunscreen for us dark skin girls with no white cast.... cuz uh CeraVe is good but will leave a white cast, I do have Black Girl Sunscreen but almost out. What about a good Korean sunscreen? Any good recommendations ladies??
+2026-08-07 | 814 | 7 | God bless you!! Cause you know my ass had questions
+2026-08-15 | 24 | 1 | Be careful using all these at the same time… you could over exfoliate and have a reaction and compromise your skin barrier use them slowly not all at one time the first day 🥰
+2026-09-08 | 282 | 10 | Started using the ones for the face noticed a difference in 3 DAYSSSS IM A LICENSED ESTHETICIAN AND APPROVE THISSSSS 🫡🫡🫡🫡
+2026-08-22 | 46 | 10 | I used this entire brand and it does work
+2026-08-13 | 210 | 8 | Does this actually work? I’m not tryna be sold a false promise
+2026-09-24 | 11 | 2 | Is this an everyday routine???
+2026-08-30 | 171 | 18 | FYI put sunscreen just like you apply lotion. The entire body
+2026-08-07 | 6034 | 8 | Thanks sis finally someone actually breaking down how to properly use the system.
+2026-08-16 | 131 | 10 | Girl I was in the bathroom for an hour, my family was TF annoyed 😂
+2026-08-21 | 113 | 2 | Every single person I see advertising this has the most radiant skin!!! I need this 😩
+2026-08-10 | 23 | 8 | purchased. i'll be back lmao
+2026-08-25 | 5 | 1 | Is it good for ppl with eczema?
+2026-08-07 | 1098 | 32 | Okay yall got me , ima gone and order it damn
+2026-08-25 | 6 | 1 | I just received mine using your link. Thanks so much for sharing. I am looking forward to seeing results.
+2026-09-22 | 7 | 2 | Do you use this every shower (2x a day) or a few times a week?
+2026-08-11 | 76 | 2 | I'd love to hear a review on this set from a dermotologist
+2026-08-06 | 8 | 2 | Please How many a times a week should you be doing all this, and is twice a day ?
+2026-08-13 | 4 | 4 | Can you use the medicube soap on your face too?
+2026-08-23 | 10 | 5 | I bought this because of your reviews. I'm using it for the first time tomorrow and using twice a week like you mentioned in a comment (Mon&Thurs) 💜🥰
+2026-08-08 | 6 | 3 | Y’all, Is it worth it??
+2026-08-07 | 29 | 7 | Does it burn? Are you saying all products can be used in the inner 🍑 area or just the outside 🍑 Or both?
+2026-08-14 | 5 | 1 | Hi can I get the link pls?thanks
+2026-08-27 | 6 | 1 | NOW These were the steps I needed in order for me to purchase!! Thank you for doing the Lords work.
+2026-08-19 | 7 | 2 | Just ordered 🥰can’t wait
+2026-10-11 | 87 | 6 | Does it really work or is everyone getting paid to promote this??
+2026-11-22 | 1 | 0 | Will it get rid of strawberry legs and back acne???
+2026-11-22 | 0 | 0 | So are the pads and the toner the same thing?
+2026-11-21 | 0 | 0 | Dose it includes face cream? Ur face is glowing… is that everything u use on ur skin please
+2026-08-10 | 36 | 4 | Is it good for the dark inner thighs?
+2026-08-12 | 4 | 2 | Why not the kojic acid peel shot?
+2026-08-26 | 196 | 3 | Jesus Christ loves you all
+2026-11-14 | 37 | 0 | See yall in the next ad
+2026-08-29 | 5 | 1 | how can I get all of what you used?
+2026-09-01 | 5 | 1 | What to use instead?
+2026-09-10 | 5 | 0 | Does it affect tattoos coloring
+2026-08-08 | 6 | 0 | Which body cream do you use
+2026-08-14 | 5 | 1 | What sunscreen you use?
+2026-08-13 | 6 | 1 | Are we doing this every day? Or how frequently??
+2026-08-13 | 6 | 0 | How long do you have to use it to see notable results?
+2026-08-22 | 6 | 0 | Can you use it on your face too
+2026-09-02 | 6 | 0 | Is this for the face as well??
+2026-08-27 | 8 | 0 | Is this good for sensitive skin?
+2026-09-03 | 7 | 0 | Do you do this everyday?
+2026-09-13 | 5 | 0 | how long after putting on the first one do you wait to get in the shower
+2026-09-14 | 5 | 0 | How often do you do this??
+2026-08-19 | 5 | 0 | What body cream and sunscreen you use or recommend?
+2026-08-22 | 5 | 0 | What sunscreen do you recommend for the whole body please 😁?
+2026-08-18 | 6 | 2 | Is it permanent?
+2026-08-14 | 10 | 2 | What sunscreen?
+2026-08-15 | 38 | 0 | if the wash (and other products) have kojic acid, glycolic acids, etc u don’t need to use a exfoliating glove/net bc over exfoliation will make it darker. the acids do their job enough w. a regular rag or the net as long as its srcubbed lightly with not too much pressure- can’t use glycolic acid on overly broken skin it will get rough and darker so exfoliating gloves + net with a lot of pressure might be too much 🫶🏾just heads up if you’ll buy
+2026-08-14 | 6 | 1 | God bless you sister
+2026-08-17 | 7 | 0 | [no text - sticker/GIF only]
+2026-08-26 | 6 | 0 | Do you use the body wash daily ? Or do you also use that only 2-4 times a week along with the other routine?
+2026-08-14 | 7 | 1 | Can it be use on face too
+2026-08-21 | 7 | 0 | Which moisturizer do you use?
+2026-08-14 | 20 | 12 | Won’t it burn 😭 if you’re scrubbing your skin with an exfoliating glove and then you’re going in with any acid product isn’t that going to burn making it worse especially for your private areas😭
+2026-08-15 | 7 | 2 | Can you use it for face also?
+2026-09-01 | 6 | 0 | I don’t usually promote but it works!!!
+2026-09-06 | 6 | 0 | I love you sm, I bought the whole set and had no idea how to use it!!!! 💋💋💋
+2026-08-28 | 7 | 1 | Koo koo 😂😂😂😂 i haven’t heard this in awhile
+2026-10-12 | 1 | 4 | من وين تشتري
+2026-11-22 | 0 | 1 | Can you use this on your face?
+2026-09-28 | 4 | 2 | Is it affordable?
+2026-10-25 | 0 | 1 | How long did it take?
+2026-11-22 | 0 | 4 | I heard that they going to dc these products
+2026-11-04 | 4 | 4 | It broke my whole body out.
+2026-11-04 | 0 | 2 | sorry if it seems dumb.. but the hypochloride red bottle.... so I get naked and put that on... and wait.... for an extended period of time before using the kojic/ turmeric body soap?
+2026-08-08 | 36 | 5 | Make this downloadable so that we can use it after buying 🥺
+2026-08-25 | 9 | 0 | I watched this whole video because of how beautiful you are 😍 lol.
+2026-11-11 | 0 | 1 | Do you use it on your face?
+2026-09-25 | 9 | 0 | I am so glad you told this people to apply sunscreen because that is KEY
+2026-08-25 | 8 | 0 | Off topic but all of your facial features are so stunning 😭
+2026-10-13 | 16 | 0 | I need the whole set. lol
+2026-10-16 | 3 | 1 | now what happens when people start getting burning reactions😂
+2026-08-14 | 2 | 8 | Can you use everything everyday?
+2026-09-17 | 8 | 1 | where can I buy this
+2026-10-11 | 0 | 0 | Sooooo, I got my package (first 2 products) today and I’m excited!! 😆 But I use charcoal soap. Should I not use my soap at all?
+2026-11-19 | 0 | 0 | What’s the difference between the toner pads and the toner? Do i need both or just one?
+2026-08-09 | 8 | 2 | Sunscreen is key for reallllll and sun avoidance as much as possible
+2026-08-27 | 6 | 1 | See I’m to lazy this so so many steps to do before and after a shower
+2026-08-07 | 11 | 3 | Thanks dot reminding me to click CHECKOUT lol these been in my cart for weeks.
+2026-08-07 | 58 | 2 | You provided a beautifully detailed explanation🖤🖤🖤🖤 TY
+2026-08-09 | 11 | 2 | Let me save this cause I’m buying with your link, specifically.
+2026-08-10 | 9 | 1 | I got a product that actually work!
+2026-08-15 | 13 | 3 | I bought the set and it just arrived in 3 days! I am going to follow your step by step instructions. cant wait to see results!
+
+## https://www.tiktok.com/@amyflamy1/video/7567422151368789265 (100 comments)
+2025-10-31 | 117 | 9 | What is exfoliating
+2025-11-01 | 22 | 2 | How to identify which exfoliating serum fits the skin type? Do I need to seek some expert for it?
+2025-10-31 | 6084 | 8 | ME WHEN AMY🥰🥰
+2025-10-31 | 31 | 19 | speed made you famous🥳
+2025-11-02 | 4 | 1 | Where to buy it girlyyy 😭
+2025-11-01 | 1525 | 0 | the body is tea✨
+2025-11-01 | 7 | 2 | Do u miss Ishowspeed?
+2025-10-31 | 235 | 1 | AMY HOW IS YOUR BODY SO TEA DROP THE WORKOUT ROUTINE PLEASE
+2025-11-08 | 523 | 1 | I love how she doesn’t gatekeep her beauty secrets
+2025-11-01 | 5 | 2 | Amy why don’t you have a blue check yet?!
+2025-11-01 | 3 | 0 | How can I get it
+2025-12-26 | 2 | 0 | you got a exfoliate🤨🤨🤨
+2026-01-20 | 0 | 0 | She said everything in UPPERCASE as it should be
+2025-10-31 | 78 | 0 | girlies we need to listen so she wont scream at us anymore 😭
+2025-11-02 | 4 | 0 | [no text - sticker/GIF only]
+2025-11-01 | 7 | 0 | What is y’all’s Halloween costume?
+2025-10-31 | 6 | 0 | Amy where's hala??🤭💋
+2025-11-26 | 1 | 0 | 늦게왔어여ㅜ
+2025-11-01 | 10 | 0 | Girl j need help how do u get those teeth i have braces and cant get it like that
+2025-10-31 | 6 | 0 | Love supporting small creators ✨✨✨✨
+2025-10-31 | 8 | 0 | ur sooo prettyyy
+2025-11-01 | 2 | 1 | I'm searching the product but don't find it 😞
+2025-11-09 | 3 | 0 | where is her bofy suit from??
+2025-11-06 | 0 | 1 | Is this safe to use with eczema? I have a flare up on my face and on my arms
+2025-10-31 | 4 | 0 | BODY TEAA😘😘
+2025-11-03 | 4 | 0 | i love the word "hyper pigmentation"
+2025-11-06 | 1 | 1 | How to pronounce Hwachae actually.🥺
+2025-11-01 | 4 | 0 | BODY IS COFFEE (TEA WAS TOO WEAK
+2026-03-07 | 0 | 0 | Guys, this is an ad 😭😭😭😭 why Amy?
+2026-01-18 | 2 | 0 | Where to get? I don’t find it on amazon
+2025-11-01 | 0 | 2 | Can you please do haircare. Please 🙏
+2025-11-10 | 0 | 1 | 메디큐브에 동일한 제품이 안파는데 어디서 구매해요?
+2025-10-31 | 2 | 1 | earlyyy
+2025-11-01 | 3 | 2 | do you remember speed?
+2025-11-01 | 3 | 0 | Shouting
+2025-12-20 | 1 | 0 | Don’t raise your voice 😩😂😂😂
+2026-01-02 | 0 | 0 | My TikTok mum
+2026-01-08 | 0 | 0 | We’re can I get this i live in German?
+2025-10-31 | 2 | 0 | Love supporting small creators
+2025-12-15 | 0 | 0 | Ive been influenced
+2025-11-02 | 1 | 0 | 이뻐죽겐넹😁
+2025-12-07 | 1 | 0 | you can also use aleppo soap I always use it and my skin is so smooth
+2025-10-31 | 1 | 0 | I love Amy ❤❤
+2025-11-01 | 2 | 0 | [WOW]
+2025-11-25 | 0 | 0 | ITS A NEED i can barely see my forehead bc of my acne [cry] [embarrassed]
+2025-11-01 | 1 | 0 | Damnnnnn AMY you know so much useful facts on skin care, you are awesome. Thank youu for this🥰💓🥰💓🥰🥰💓🥰💓🥰💓
+2025-11-02 | 1 | 0 | I remember that one vid from 2024 I think when Amy was trying on a hijab with her friend tali at tala not sure
+2025-11-01 | 1 | 0 | some one show this to that dermatologist that have an aditude and then i'll buy it even tho l dont have this problem
+2025-11-03 | 1 | 0 | How much is the serum and where can I get it? Cause I’m a broke baddie in Canada and I NEED to know where to get it💕
+2025-11-01 | 1 | 0 | body tea anyway pls show some good hairstyles for people with glasses
+2025-11-01 | 2 | 0 | Amy help how to remove small bumps on forehead😭
+2025-12-16 | 0 | 0 | Is it on Amazon or is it the wrong one
+2025-12-08 | 0 | 0 | Gurl, you're perfect!
+2025-11-30 | 1 | 0 | I swear to God, you have that beauty of a flower I don’t have beauty like you you’re beautiful
+2025-11-01 | 1 | 0 | Amy is that is your real eyes!👀
+2025-10-31 | 3 | 0 | YOU ARE SO PRETTY OMG
+2025-11-01 | 2 | 0 | korea’s cardi b energy💯🔥👏
+2025-11-01 | 2 | 0 | i have dark circles😭
+2025-11-29 | 0 | 0 | [no text - sticker/GIF only]
+2026-01-01 | 0 | 0 | girlll don't care about the people careee about you they're just jealous of you slayyyy
+2025-11-01 | 1 | 0 | I really like your style
+2025-10-31 | 2 | 0 | early
+2025-11-03 | 1 | 0 | babe, YOU ARE SO PRETTY WHATTT
+2025-10-31 | 1 | 0 | thanks queen🙏🏻🙏🏻
+2025-10-31 | 1 | 0 | Yooo was up reply to mee❤
+2025-10-31 | 1 | 0 | it is safe with acne skin?🙏🏼
+2025-11-02 | 1 | 0 | Can you send me some skincare..😭❤
+2026-01-04 | 0 | 0 | If I already have hyperpigmentation will it stop it?
+2025-10-31 | 1 | 0 | Anyone else struggle to get the product out of bottle? 😭😭
+2025-10-31 | 1 | 0 | Amy I'm poor, what do I do?
+2025-12-19 | 0 | 0 | Why is she yelling at me?!😧
+2025-11-01 | 1 | 0 | pla don't scold me😭
+2025-11-01 | 2 | 0 | 언니 너무예쁘당 언니근데 나 언니팬인데 대댓한번만 해주면 안될까?🥺
+2025-11-01 | 2 | 0 | 너 정말 예쁘네😘😘
+2025-11-02 | 1 | 0 | 😭im late
+2025-10-31 | 2 | 0 | where did you get them
+2025-11-02 | 1 | 0 | 🇸🇩🇸🇩🇸🇩🇸🇩🇸🇩🇸🇩🇸🇩🇸🇩🇸🇩🇸🇩🇸🇩🇸🇩🇸🇩🇸🇩🇸🇩talk about Sudan🇸🇩🇸🇩
+2025-11-01 | 1 | 0 | am I early?
+2025-10-31 | 1 | 0 | OMG SO EARLYY
+2025-11-03 | 0 | 0 | what age is it appropiate to start exfoliating
+2025-11-22 | 0 | 0 | WHAT ONLINE INTERNATIONAL SITE SELS THISSSSSS 🥺
+2025-10-31 | 1 | 0 | I have darker skin like chesnut dark can you recommend something I can use that won't hurt
+2025-11-13 | 0 | 0 | but like where can i buy it
+2025-11-28 | 0 | 0 | Give me money and I’ll turn into the most beautiful girl ever (and stop yelling we’re broke😔)
+2025-11-16 | 0 | 0 | The filteeeerrr I CANTTT
+2025-11-02 | 1 | 0 | Amy can you tell use how you stay skinny 😩
+2025-12-08 | 0 | 0 | BODY TEA😋❤️
+2025-10-31 | 1 | 0 | I DO DON'T SCREAM AT ME IM JUST A GIRL💀💀✨
+2025-11-23 | 0 | 0 | I need to know where you buy this
+2025-11-17 | 0 | 0 | workout routine pls
+2025-10-31 | 1 | 0 | 레전드다 진짜
+2025-10-31 | 1 | 0 | HELP EARLY
+2025-10-31 | 1 | 0 | buh it hurts 😭
+2025-11-28 | 0 | 0 | body is tea grrr
+2025-12-06 | 0 | 0 | amy I don't have money 😭😭😭
+2025-11-02 | 0 | 0 | What do you use for exfoliating
+2025-11-20 | 0 | 0 | I have keratosis pilaris and exfoliating my arms hurts so bad because it aggravates it💔
+2025-11-24 | 0 | 0 | Does it work on arms and legs?
+2025-11-20 | 0 | 0 | Pretty 😭❤
+2025-12-16 | 0 | 0 | Amy I live in eroupe!!!
+
+## https://www.tiktok.com/@trulyglowin/video/7662768351407607071 (100 comments)
+2026-07-28 | 403 | 13 | Can someone give an honest review, TikTok has drained too much of my money 😩
+2026-09-13 | 7 | 1 | This medicube bundle is great
+2026-11-22 | 0 | 0 | what if you have tattoos up and down your arms 🤔
+2026-11-06 | 14 | 6 | Is it safe to use on your face 👀
+2026-07-17 | 935 | 22 | Will I have any skin left damn
+2026-10-03 | 5 | 6 | but can i use it on my face tho
+2026-11-22 | 2 | 0 | THATS NOT DEAD SKIN,..its a chemical in the product. when you put friction on it, it turns into this. 🙄
+2026-09-01 | 5 | 9 | I just received my order today, lets see if it actually works. I will be posting updates on my page.🤩
+2026-07-21 | 9 | 5 | Will the step 1 and 2 work by itself ?
+2026-07-31 | 24 | 5 | wouldn't you need to use a spf with all the acid on your skin?
+2026-08-12 | 18 | 3 | Is this good for strawberry legs
+2026-07-18 | 62 | 4 | This tutorial is great because you never know what order to use it. You are a gem.❤️
+2026-07-30 | 10 | 0 | Any recommendations for my 🍑 I want a brightener but I think this will be too harsh for back there
+2026-07-22 | 17 | 0 | & finish w spf!
+2026-09-13 | 8 | 1 | Nah dang I just brought the first two I gotta get the whole set 😭
+2026-07-20 | 0 | 0 | what about the Kojic acid peel?
+2026-08-13 | 7 | 2 | why so many steps
+2026-07-16 | 6 | 1 | Please keep making these!! Thank you 😭
+2026-07-30 | 2 | 2 | Is this used everyday ?
+2026-08-21 | 1 | 4 | Does this work for intimate areas?
+2026-07-26 | 1 | 8 | Is this kid friendly?
+2026-07-26 | 3 | 7 | Wait so do you do first two steps in shower and then the other ones after you get out the shower and is this night time routine or morning???
+2026-10-19 | 1 | 2 | Is this product suitable for use on the face?
+2026-09-24 | 3 | 1 | For step 1 after I use it on dry skin do I wipe it off then get in the shower or rinse it off while In the shower ?
+2026-10-15 | 1 | 3 | So should I get in the shower and do the exfoliating before I turn the water on?
+2026-10-31 | 4 | 2 | I just got mine for $16!
+2026-10-21 | 1 | 2 | Can this product be used on the face..Respectfully,stop avoiding the question..thx
+2026-09-20 | 3 | 2 | Can this be used on your face specifically under my eyes
+2026-10-07 | 1 | 1 | Is this good for dark circles around the eyes
+2026-09-29 | 1 | 1 | This is only for body or face as well??
+2026-08-12 | 2 | 4 | Can u use it on your face also
+2026-10-30 | 0 | 1 | Yes 🙌 they work I bought two the red and yellow I want the big bundle 😂
+2026-08-09 | 0 | 1 | #2 is this in or out the shower ?
+2026-10-15 | 0 | 1 | I don’t have dark spots but i do get black heads bad. Does this help?
+2026-10-02 | 1 | 2 | Where can I found it?
+2026-10-26 | 2 | 1 | Can you use step 2 on your face as well.
+2026-08-25 | 0 | 1 | can I use it on my face?
+2026-07-28 | 2 | 2 | Do I have to use this everyday ?
+2026-10-17 | 0 | 1 | how long do you leave step 2 on before washing it off
+2026-10-24 | 1 | 1 | Love yr teaching cuz some of us don’t even know what to do
+2026-10-28 | 1 | 1 | I got mine for half with the coupons!
+2026-10-03 | 1 | 0 | can i use this while pregnant?
+2026-09-28 | 0 | 2 | Is this good for face too? I have acne and texture
+2026-10-02 | 0 | 1 | How much
+2026-08-31 | 0 | 1 | So before shower, then these products are used at night and left to bathe the next day?
+2026-09-28 | 3 | 0 | Now there’s 3 more products to use😭 yall be killing peoples pockets
+2026-09-21 | 2 | 0 | do you do this every day or twice a week?
+2026-10-19 | 1 | 0 | Thank youuu
+2026-10-09 | 1 | 0 | O god
+2026-07-26 | 3 | 1 | Thanks
+2026-08-11 | 3 | 1 | Thanks for the review
+2026-07-30 | 3 | 0 | Too much work!!!
+2026-08-19 | 2 | 0 | Can I use this for my face too?
+2026-08-27 | 1 | 1 | this helps so much
+2026-08-26 | 2 | 0 | Terrible customer service. Good luck if you need anything from them.
+2026-07-29 | 2 | 1 | Do you have any for face?
+2026-08-18 | 2 | 0 | I- l
+2026-10-12 | 1 | 0 | is this for the face or no?
+2026-09-23 | 1 | 0 | Is this an everyday thing?
+2026-11-13 | 1 | 0 | I bought this for strawberry legs...I am praying this doesn't end up being skin bleach 😫
+2026-08-06 | 3 | 1 | Can I still use antibacterial soap during any of these steps??
+2026-08-17 | 4 | 0 | Do you also use regular body wash
+2026-09-12 | 1 | 0 | can i use it on my face?
+2026-11-20 | 0 | 0 | Love this
+2026-10-21 | 1 | 0 | Wait I’m excited to see if it works
+2026-11-19 | 0 | 0 | I only ordered step one and two. Ugh
+2026-09-23 | 1 | 0 | Can you use it for your face
+2026-09-21 | 1 | 0 | yess these are amazing
+2026-08-09 | 1 | 0 | #1 Out of shower on dry skin. #2 Is a body wash so in shower. 🤍
+2026-08-15 | 1 | 0 | What about lotion?
+2026-11-19 | 0 | 0 | I need the first two where can I buy it? And get it shipped to South Africa
+2026-10-23 | 1 | 0 | Step 3,4 &5 can i use those for my face?
+2026-11-18 | 0 | 0 | where can I purchase these
+2026-10-30 | 2 | 0 | Please wear sunscreen after all this.
+2026-11-15 | 0 | 0 | Can I use it for my face?
+2026-08-28 | 0 | 1 | Does it helps with ingrown hair and bumps?
+2026-08-18 | 2 | 1 | This the one you talking about or the vitamin C beads
+2026-10-03 | 1 | 0 | After I use this, do I just shower normally or do I have to do some of the steps while showering?
+2026-09-25 | 1 | 0 | I have had dark knees and elbows for as long as I can remember but theyve gotten darker recently. I also now have some hypigmentation on my feet. Will this fade those areas. Im so insecure showing my legs now and my feet 😔😔
+2026-07-30 | 0 | 1 | Can you use any for your face?
+2026-09-30 | 1 | 0 | Is it safe to use the first two products every day?
+2026-10-11 | 1 | 0 | So, i use a charcoal bar soap for my skin. Can I still use that while uses the first 2 products? Or no soap at all?
+2026-09-12 | 1 | 0 | That’s a lot of acid in the skin. I’d be burnt to a crispy
+2026-08-27 | 1 | 0 | how many times did you have to buy it to see results ?
+2026-09-11 | 1 | 0 | What would I use for pores, uneven skin/redness and aging?
+2026-07-23 | 2 | 0 | Yall really be doing all this? 😳
+2026-09-02 | 1 | 0 | Can I use on my face ?
+2026-08-12 | 1 | 0 | Finally!!! May you be blessed foreva
+2026-08-11 | 1 | 0 | Thank you I was using it backward😂😅
+2026-07-31 | 1 | 0 | Damn five steps is a lot…. Hand it here.
+2026-11-13 | 0 | 0 | so you use them before the shower
+2026-11-14 | 0 | 0 | How to Oder full box
+2026-10-29 | 1 | 0 | Thank you. Best explanation I've seen so far. & those on the comments 🙌🏾
+2026-11-16 | 0 | 0 | hey can we just use this on our face?
+2026-10-27 | 0 | 0 | Tyy
+2026-11-08 | 0 | 0 | I only have steps 1,2 and 5. 😔
+2026-11-02 | 0 | 0 | i need to try how do i get this
+2026-10-23 | 0 | 0 | Where’s the brightening one?
+2026-11-10 | 0 | 0 | This stuff is really good. It works wonders on my skin. 💕
+2026-07-30 | 1 | 0 | Great job 👏🏼👏🏼👏🏼
+
+## https://www.tiktok.com/@leslypocasangre/video/7663147708638596382 (56 comments)
+2026-10-22 | 42 | 20 | Los acabo de comprar y necesitaba saber cuál era primero, gracias!!!! 💖
+2026-11-03 | 5 | 2 | Buenisimo, lo súper recomiendo ☺️las que preguntan como se usa, primero usas el exfoliante color rojo, lo lavas y después el jnaranja es un jabon en gel, tallas normal en las aéreas obscuras y después lavas, súper buenisimo si compran todo el kit, al salir de bañarte te secas y te pasas las toallitas exfoliantes y después el suero humectante
+2026-10-20 | 8 | 6 | Cómo se usa? Que producto se utiliza primero ?
+2026-10-05 | 9 | 3 | Muy bueno yo lo compré y me gustó mucho
+2026-07-16 | 5 | 3 | Yo tengo acné corporal será que me ayuda?
+2026-10-28 | 3 | 0 | hola, cual es el precio en Perú- lima?
+2026-10-05 | 3 | 0 | Como se usa
+2026-09-01 | 4 | 0 | Puedes poner como se usa ? Porfavor
+2026-10-30 | 1 | 0 | como los adquiero en peru
+2026-10-30 | 1 | 0 | donde lo compro soy de peru
+2026-10-05 | 1 | 0 | lo quiero
+2026-10-04 | 1 | 0 | Como se usa por favor
+2026-09-29 | 1 | 1 | Como lo usas?
+2026-11-23 | 0 | 0 | Donde lo venden ?
+2026-11-23 | 0 | 0 | Precio ??? Sigue disponible???
+2026-11-22 | 0 | 0 | Donde se compra para Perú
+2026-11-22 | 0 | 0 | donde lo compraste
+2026-11-19 | 0 | 1 | El gel supongo q es todos los días y el exfoliantes 2o 3 veces x semana. ?
+2026-11-18 | 0 | 0 | Amiga yo quiero , todavía sigue disponible
+2026-11-12 | 0 | 0 | Perú?si es así lo necesitoooo
+2026-11-11 | 0 | 0 | Donde se compran ?
+2026-11-09 | 0 | 0 | despues de cuanto tienpo notas el canbio mi amor
+2026-11-08 | 0 | 0 | Es bueno para piel sensible?
+2026-11-08 | 0 | 0 | Percibo
+2026-11-06 | 0 | 0 | Hola , quiero el set .
+2026-11-05 | 0 | 0 | donde lo consigo
+2026-11-02 | 0 | 0 | Perú? precio
+2026-11-02 | 0 | 0 | Yo lo quiero !!!
+2026-11-02 | 0 | 0 | Cada cuando se usará el exfoliante ?
+2026-11-01 | 0 | 0 | precio para Perú
+2026-10-25 | 0 | 2 | Tengo que lavar el gel luego de aplicarlo, y lo dejo ?
+2026-10-26 | 0 | 0 | I’m t
+2026-10-28 | 0 | 0 | Precio
+2026-10-23 | 0 | 0 | Información 🙊
+2026-10-27 | 0 | 0 | Donde lo
+2026-10-28 | 0 | 0 | Donde venden?
+2026-10-23 | 0 | 0 | donde lo consigo en venezuela?
+2026-10-22 | 0 | 0 | Y al mi
+2026-10-30 | 0 | 0 | done lo puedobcomprr en venzuela
+2026-10-27 | 0 | 0 | Precio Porfaa
+2026-10-27 | 0 | 0 | Donde lo compro?
+2026-10-28 | 0 | 0 | donde los puedo conseguir
+2026-10-27 | 0 | 0 | Dónde lo consigo??
+2026-10-27 | 0 | 0 | Donde se consigue en México? Porfis
+2026-10-27 | 0 | 0 | información
+2026-10-21 | 0 | 0 | También tenía dudas de cuál usar primero, gracias 🙏
+2026-10-27 | 0 | 0 | donde lo compro aquí en nicaragua
+2026-10-21 | 0 | 0 | es bueno para el rostro
+2026-10-27 | 0 | 0 | Si alguien sabe en qué tienda lo venden o alguna página
+2026-10-27 | 0 | 0 | dónde lo consigo en Venezuela? lo quieroo!!
+2026-10-11 | 1 | 0 | 🥰
+2026-11-12 | 0 | 0 | 😅😅😅
+2026-10-27 | 0 | 0 | holaa donde lo compran ?
+2026-10-27 | 0 | 0 | Dónde lo puedo comprar aquí en Venezuela?
+2026-10-29 | 0 | 0 | Súper buenos los uso y me están ayudando
+2026-10-27 | 0 | 0 | Donde lo compro
