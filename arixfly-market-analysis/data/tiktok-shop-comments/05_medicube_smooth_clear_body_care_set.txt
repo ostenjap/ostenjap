@@ -1,0 +1,21 @@
+PRODUCT: medicube Smooth & Clear Body Care Set
+         (hypochlorous acid body peel shot, kojic acid turmeric body wash, toner pad, toner, mist)
+CATEGORY: Beauty / Body care
+TIKTOK SHOP PRODUCT ID: 1732052189676081387
+PRICE: $67–$156 range (EchoTik)
+
+WHY IT COUNTS AS SUCCESSFUL (confirmed by multiple sources)
+- FastMoss, Q3 2026 US: #1 product, ~$9.56M revenue.
+  https://www.fastmoss.com/blog/best-selling-tiktok-shop-products-us-q3-2026/
+- NetInfluencer, October 2026: #1 for the second straight month, $6.77M.
+  https://www.netinfluencer.com/10-top-selling-products-on-tiktok-shop-in-october-2026/
+- FastMoss category ranking: #1 in Beauty by units (US 2026).
+  https://www.fastmoss.com/blog/best-selling-products-by-category/
+- TikTok Shop listing.
+  https://www.tiktokshop.com/pdp/medicube-body-care-set-exfoliating-brightening-k-beauty/1732052189676081387
+
+VIDEO URLS SCRAPED
+(none yet — add URLs to videos.json and run scrape_comments.py)
+
+RAW COMMENTS
+(not yet collected — TikTok was unreachable from the environment that built this file)

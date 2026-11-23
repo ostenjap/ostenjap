@@ -1,0 +1,20 @@
+PRODUCT: medicube PDRN Pink Collagen Volume Multi Balm
+CATEGORY: Beauty / Skincare
+TIKTOK SHOP PRODUCT ID (per EchoTik): 1729508370969629931
+PRICE: ~$14 US (NewBeauty); £24 on TikTok Shop UK (LatestDeals)
+
+WHY IT COUNTS AS SUCCESSFUL (confirmed by multiple sources)
+- FastMoss, Q2 2026 US: #1 product on TikTok Shop, ~$16.99M revenue.
+  https://www.fastmoss.com/blog/best-selling-tiktok-shop-products-us-q2-2026/
+- Kalodata via QuickSync, July 2026: single best-selling product on the platform that month.
+  https://quicksync.pro/blog/tiktok-shop-trending-products-2026/
+- LatestDeals (UK): 1.5M+ views in 7 days across 432 videos and 146 livestreams; ~14,000 units / ~£370K estimated.
+  https://www.latestdeals.co.uk/news/shoppers-warned-not-pay-24-viral-tiktok-k-beauty-stick
+- NewBeauty product review.
+  https://www.newbeauty.com/view/medicube-pdrn-pink-collagen-volume-multi-balm-review
+
+VIDEO URLS SCRAPED
+(none yet — add URLs to videos.json and run scrape_comments.py)
+
+RAW COMMENTS
+(not yet collected — TikTok was unreachable from the environment that built this file)

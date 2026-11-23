@@ -1,0 +1,19 @@
+PRODUCT: DRDENT Purple Teeth Whitening Strips (peroxide-free, 7/21 sessions)
+CATEGORY: Beauty / Oral care
+TIKTOK SHOP PRODUCT ID: 1731879234948338174
+
+WHY IT COUNTS AS SUCCESSFUL (confirmed by multiple sources)
+- FastMoss, Q1 2026 US: most orders of any top-10 product (488,565 orders).
+  https://www.fastmoss.com/blog/top-selling-products-tiktok-shop-us-q1-2026/
+- FastMoss case study: $3.1M GMV in January 2026, ~4.3K units/day.
+  https://www.fastmoss.com/blog/how-dr-dent-dominated-the-tiktok-shop-market-in-january-2026/
+- TikTok Shop listing: ~237.8K sold, 4.1 rating from ~11.7K reviews.
+  https://www.tiktokshop.com/pdp/teeth-whitening-strips-by-dr-dent-enamel-safe-non-sensitive-peroxide-free/1731879234948338174
+- EchoTik: store sales volume 1.08M.
+  https://echotik.live/products/1731879234948338174
+
+VIDEO URLS SCRAPED
+(none yet — add URLs to videos.json and run scrape_comments.py)
+
+RAW COMMENTS
+(not yet collected — TikTok was unreachable from the environment that built this file)

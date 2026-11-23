@@ -1,0 +1,24 @@
+PRODUCT: Toplux Magnesium Complex 8 (Essential Magnesium Supplement)
+CATEGORY: Health / Supplements
+TIKTOK SHOP PRODUCT ID: 1729448464509734958
+PRICE: ~$19.97 (FindNiche)
+
+WHY IT COUNTS AS SUCCESSFUL (confirmed by multiple sources)
+- FastMoss, Q1 2026 US: #2, $9,526,928 revenue, 414,503 orders.
+  https://www.fastmoss.com/blog/top-selling-products-tiktok-shop-us-q1-2026/
+- FastMoss, Q2 2026 US: #2, ~$14.23M. Q3 2026 US: #2, ~$8.24M.
+  https://www.fastmoss.com/blog/best-selling-tiktok-shop-products-us-q2-2026/
+  https://www.fastmoss.com/blog/best-selling-tiktok-shop-products-us-q3-2026/
+- NetInfluencer: #7 Dec 2025 ($2.02M); Aug 2026 $2.36M.
+  https://www.netinfluencer.com/the-10-best-selling-products-on-tiktok-shop-in-december-2025/
+  https://www.netinfluencer.com/top-10-products-sold-on-tiktok-in-august-2026/
+- Nexscope weekly ranking (Week 22): #3, 48,200 units, $1.28M weekly GMV.
+  https://www.nexscope.ai/cases/40
+- TikTok Shop listing showed ~751.7K sold.
+  https://www.tiktokshop.com/pdp/magnesium-complex-by-toplux-8-essential-magnesium-forms-in-one-capsule/1729448464509734958
+
+VIDEO URLS SCRAPED
+(none yet — add URLs to videos.json and run scrape_comments.py)
+
+RAW COMMENTS
+(not yet collected — TikTok was unreachable from the environment that built this file)

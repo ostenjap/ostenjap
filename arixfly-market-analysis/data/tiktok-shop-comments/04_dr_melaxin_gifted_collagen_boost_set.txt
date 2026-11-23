@@ -1,0 +1,21 @@
+PRODUCT: Dr.Melaxin Gifted Collagen Boost Set
+CATEGORY: Beauty / Skincare
+TIKTOK SHOP PRODUCT ID: (not confirmed — look up on TikTok Shop)
+PRICE: $62.10 (Q1 2026) / $69 (Q2 2026) per FastMoss
+
+WHY IT COUNTS AS SUCCESSFUL (confirmed by multiple sources)
+- FastMoss, Q1 2026 US: #1 by revenue, $11,103,970, 170,787 orders.
+  https://www.fastmoss.com/blog/top-selling-products-tiktok-shop-us-q1-2026/
+- FastMoss, Q2 2026 US: #4.
+  https://www.fastmoss.com/blog/best-selling-tiktok-shop-products-us-q2-2026/
+- NetInfluencer: #1 in Dec 2025 ($4.73M); #2 in Mar 2026 ($3.65M); #4 in Apr 2026.
+  https://www.netinfluencer.com/the-10-best-selling-products-on-tiktok-shop-in-december-2025/
+  https://www.netinfluencer.com/10-best-selling-products-on-tiktok-shop-in-april-2026/
+- Beauty Independent: Dr.Melaxin among top indie beauty brands on TikTok Shop.
+  https://www.beautyindependent.com/indie-beauty-brands-surpassed-500-million-on-tiktok-shop-in-the-past-year/
+
+VIDEO URLS SCRAPED
+(none yet — add URLs to videos.json and run scrape_comments.py)
+
+RAW COMMENTS
+(not yet collected — TikTok was unreachable from the environment that built this file)
